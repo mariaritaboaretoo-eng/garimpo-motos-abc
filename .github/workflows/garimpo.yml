@@ -1,0 +1,40 @@
+name: Garimpo de Motos
+
+# Roda na nuvem do GitHub - nao precisa de PC ligado.
+on:
+  schedule:
+    - cron: "0 11 * * *"   # todo dia 08:00 BRT (11:00 UTC)
+  workflow_dispatch: {}     # botao de rodar na mao (aba Actions)
+
+permissions:
+  contents: write           # deixa o robo salvar a pagina atualizada de volta no repo
+
+jobs:
+  garimpar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Rodar o garimpo (busca + FIPE + email + pagina)
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_DE: ${{ secrets.EMAIL_DE }}
+          EMAIL_PARA: ${{ secrets.EMAIL_PARA }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
+        run: python src/garimpo.py --notificar
+
+      - name: Publicar a pagina atualizada
+        run: |
+          git config user.name  "garimpo-bot"
+          git config user.email "garimpo-bot@users.noreply.github.com"
+          git add docs/
+          git commit -m "atualiza pagina do garimpo" || echo "nada mudou"
+          git push

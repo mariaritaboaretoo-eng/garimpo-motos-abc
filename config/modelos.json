@@ -1,0 +1,46 @@
+{
+  "_comentario": "Lista das motos mais procuradas do ABC (base: emplacamentos Brasil/SP). O robo varre SO estes modelos. Edite a vontade: 'nome' e so rotulo, 'busca_olx' e o termo de busca, 'fipe_marca' precisa bater com a marca da tabela FIPE.",
+  "km_max": 30000,
+  "desconto_min_pct": 5,
+  "_nota_desconto": "Moto de km baixa raramente vende 10%+ abaixo da FIPE (os descontoes sao de km alta, que o filtro de km corta). Com 5% o radar pega as oportunidades reais de km baixa. Suba pra 8-10 se quiser so gemas raras (emails mais raros), baixe pra 0 pra ver tudo abaixo da FIPE.",
+  "paginas_por_modelo": 3,
+  "cidades_abc": [
+    "santo andre",
+    "sao bernardo do campo",
+    "sao bernardo",
+    "sao caetano do sul",
+    "sao caetano",
+    "diadema",
+    "maua",
+    "ribeirao pires",
+    "rio grande da serra"
+  ],
+  "palavras_bloqueio": [
+    "leilao",
+    "leilão",
+    "sinistro",
+    "sinistrado",
+    "batido",
+    "batida",
+    "sucata",
+    "para retirada de pecas",
+    "peças",
+    "documento atrasado",
+    "recuperada",
+    "financiamento em atraso"
+  ],
+  "_ajuda_fipe_tokens": "Termos que o nome do modelo na FIPE PRECISA conter. Trava a familia certa e evita casar com moto errada (ex: 'pcx' impede casar PCX com ADV 160).",
+  "modelos": [
+    { "nome": "Honda CG 160",    "busca_olx": "honda cg 160",     "fipe_marca": "Honda",  "fipe_tokens": ["cg 160"] },
+    { "nome": "Honda Biz",        "busca_olx": "honda biz",        "fipe_marca": "Honda",  "fipe_tokens": ["biz"] },
+    { "nome": "Honda PCX",        "busca_olx": "honda pcx",        "fipe_marca": "Honda",  "fipe_tokens": ["pcx"] },
+    { "nome": "Honda NXR Bros",   "busca_olx": "honda bros 160",   "fipe_marca": "Honda",  "fipe_tokens": ["bros"] },
+    { "nome": "Honda XRE 300",    "busca_olx": "honda xre 300",    "fipe_marca": "Honda",  "fipe_tokens": ["xre 300"] },
+    { "nome": "Honda Elite 125",  "busca_olx": "honda elite 125",  "fipe_marca": "Honda",  "fipe_tokens": ["elite"] },
+    { "nome": "Yamaha Factor 150","busca_olx": "yamaha factor 150","fipe_marca": "Yamaha", "fipe_tokens": ["factor", "150"] },
+    { "nome": "Yamaha Fazer 250", "busca_olx": "yamaha fazer 250", "fipe_marca": "Yamaha", "fipe_tokens": ["fazer", "250"] },
+    { "nome": "Yamaha NMAX 160",  "busca_olx": "yamaha nmax",      "fipe_marca": "Yamaha", "fipe_tokens": ["nmax"] },
+    { "nome": "Yamaha Crosser 150","busca_olx": "yamaha crosser 150","fipe_marca": "Yamaha", "fipe_tokens": ["crosser"] },
+    { "nome": "Yamaha Lander 250","busca_olx": "yamaha lander 250", "fipe_marca": "Yamaha", "fipe_tokens": ["lander"] }
+  ]
+}
