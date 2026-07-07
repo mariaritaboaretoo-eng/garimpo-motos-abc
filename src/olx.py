@@ -9,31 +9,58 @@ entao a filtragem por ABC e feita no cliente pelo campo 'municipio' (exato).
 """
 
 import json
-import os
 import re
-import time
 import unicodedata
-from urllib.parse import quote, urlencode
-
-from curl_cffi import requests as http  # imita fingerprint TLS do Chrome p/ furar Cloudflare
+from urllib.parse import quote
 
 BASE_URL = "https://www.olx.com.br/autos-e-pecas/motos/estado-sp"
-IMPERSONATE = "chrome124"
-HEADERS = {"Accept-Language": "pt-BR,pt;q=0.9"}
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
 
-# Fallback opcional: se o IP direto (ex: GitHub Actions) for bloqueado pela Cloudflare,
-# defina a secret SCRAPER_API_KEY (conta gratuita em scraperapi.com) que as requisicoes
-# passam por um proxy que resolve o desafio. Sem a key, vai direto via curl_cffi.
-SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY")
+# O OLX fica atras da Cloudflare, que bloqueia IP de datacenter para requisicoes HTTP
+# comuns (requests/curl_cffi -> 403). A saida e usar um NAVEGADOR real (Playwright/
+# Chromium): ele resolve o desafio JavaScript da Cloudflare e funciona ate do GitHub
+# Actions. O navegador e reaproveitado entre as buscas -> o cookie de "aprovado" da
+# Cloudflare fica no contexto e so a 1a pagina espera o desafio.
+_pw = _browser = _page = None
 
 
-def _get(url):
-    if SCRAPER_API_KEY:
-        proxied = "https://api.scraperapi.com/?" + urlencode(
-            {"api_key": SCRAPER_API_KEY, "url": url}
-        )
-        return http.get(proxied, headers=HEADERS, impersonate=IMPERSONATE, timeout=70)
-    return http.get(url, headers=HEADERS, impersonate=IMPERSONATE, timeout=30)
+def _garante_navegador():
+    global _pw, _browser, _page
+    if _page is not None:
+        return _page
+    from playwright.sync_api import sync_playwright
+    _pw = sync_playwright().start()
+    _browser = _pw.chromium.launch(
+        args=["--no-sandbox", "--disable-blink-features=AutomationControlled"]
+    )
+    ctx = _browser.new_context(
+        locale="pt-BR", user_agent=UA, viewport={"width": 1366, "height": 768}
+    )
+    _page = ctx.new_page()
+    return _page
+
+
+def fechar():
+    """Fecha o navegador. Chamar no fim da execucao."""
+    global _pw, _browser, _page
+    try:
+        if _browser:
+            _browser.close()
+        if _pw:
+            _pw.stop()
+    finally:
+        _pw = _browser = _page = None
+
+
+def _fetch(url):
+    pg = _garante_navegador()
+    pg.goto(url, wait_until="domcontentloaded", timeout=60000)
+    try:
+        pg.wait_for_selector(".olx-adcard__price", timeout=20000)
+    except Exception:
+        pass  # pagina sem resultados, ou desafio ainda resolvendo
+    return pg.content()
 
 
 def _norm(txt):
@@ -90,7 +117,7 @@ def _normaliza(obj):
     }
 
 
-def buscar(termo, paginas=1, pausa=1.5):
+def buscar(termo, paginas=1):
     """Retorna lista de anuncios (dict normalizado) do estado inteiro para o termo."""
     achados = []
     for pagina in range(1, paginas + 1):
@@ -98,14 +125,11 @@ def buscar(termo, paginas=1, pausa=1.5):
         if pagina > 1:
             url += f"&o={pagina}"
         try:
-            r = _get(url)
+            html = _fetch(url)
         except Exception:
             break
-        if r.status_code != 200:
-            break
-        for obj in _extrair_ads(r.text):
+        for obj in _extrair_ads(html):
             a = _normaliza(obj)
             if a["preco"]:
                 achados.append(a)
-        time.sleep(pausa)  # educado com o OLX
     return achados

@@ -13,34 +13,15 @@ Uso completo (email + pagina), chamado pelo GitHub Actions:
 import json
 import os
 import sys
-import unicodedata
 
 sys.path.insert(0, os.path.dirname(__file__))
 
 import fipe
 import filtros
-import usadosbr as fonte
+import olx
 
 RAIZ = os.path.dirname(os.path.dirname(__file__))
 CONFIG = os.path.join(RAIZ, "config", "modelos.json")
-
-
-def _norm(txt):
-    txt = unicodedata.normalize("NFKD", txt or "")
-    txt = "".join(c for c in txt if not unicodedata.combining(c))
-    return txt.lower()
-
-
-def _identifica_modelo(a, modelos):
-    """Descobre qual modelo monitorado o anuncio e (marca + tokens no texto)."""
-    marca = _norm(a.get("marca_olx"))
-    texto = _norm(a.get("texto"))
-    for m in modelos:
-        if _norm(m["fipe_marca"]) != marca:
-            continue
-        if all(_norm(t) in texto for t in m.get("fipe_tokens", [])):
-            return m
-    return None
 
 
 def carregar_config():
@@ -50,41 +31,39 @@ def carregar_config():
 
 def garimpar(cfg, log=print):
     achados = []
-    marcas = sorted({m["fipe_marca"] for m in cfg["modelos"]})
-    paginas = cfg.get("paginas_por_busca", 1)
-    log(f"  buscando {marcas} no ABC ({len(fonte.CIDADES_BUSCA)} cidades)...")
-    deals = fonte.buscar_abc(marcas, paginas=paginas)
-    abc = [a for a in deals if filtros.passa_regiao(a, cfg["cidades_abc"])]
-    log(f"    {len(deals)} anuncios / {len(abc)} no ABC")
+    paginas = cfg.get("paginas_por_busca", 3)
+    try:
+        for modelo in cfg["modelos"]:
+            log(f"  buscando: {modelo['nome']} ...")
+            anuncios = olx.buscar(modelo["busca_olx"], paginas=paginas)
+            abc = [a for a in anuncios if filtros.passa_regiao(a, cfg["cidades_abc"])]
+            log(f"    {len(anuncios)} no estado / {len(abc)} no ABC")
+            for a in abc:
+                a["modelo_monitorado"] = modelo["nome"]
 
-    for a in abc:
-        # 1) e um modelo monitorado?
-        modelo = _identifica_modelo(a, cfg["modelos"])
-        if not modelo:
-            continue
-        a["modelo_monitorado"] = modelo["nome"]
+                # 1) fora leilao/sinistro
+                if filtros.eh_leilao(a, cfg["palavras_bloqueio"]):
+                    continue
+                # 2) precisa ter ano (pra casar FIPE)
+                if not a.get("ano"):
+                    continue
+                # 3) km <= limite (regra estrita)
+                if not filtros.passa_km(a, cfg["km_max"]):
+                    continue
 
-        # 2) fora leilao/sinistro
-        if filtros.eh_leilao(a, cfg["palavras_bloqueio"]):
-            continue
-        # 3) precisa ter ano (pra casar FIPE)
-        if not a.get("ano"):
-            continue
-        # 4) km <= limite (regra estrita)
-        if not filtros.passa_km(a, cfg["km_max"]):
-            continue
+                # 4) referencia FIPE (modelo normalizado do OLX + tokens que travam a familia)
+                ref = fipe.valor_referencia(
+                    modelo["fipe_marca"], a["modelo_olx"], a["ano"],
+                    tokens_obrigatorios=modelo.get("fipe_tokens"),
+                )
+                if not ref:
+                    continue
+                if not filtros.avaliar_fipe(a, ref, cfg["desconto_min_pct"]):
+                    continue
 
-        # 5) referencia FIPE (modelo do anuncio + tokens que travam a familia certa)
-        ref = fipe.valor_referencia(
-            modelo["fipe_marca"], a["modelo_olx"], a["ano"],
-            tokens_obrigatorios=modelo.get("fipe_tokens"),
-        )
-        if not ref:
-            continue
-        if not filtros.avaliar_fipe(a, ref, cfg["desconto_min_pct"]):
-            continue
-
-        achados.append(a)
+                achados.append(a)
+    finally:
+        olx.fechar()
 
     achados.sort(key=lambda x: x["desconto_pct"], reverse=True)
     return achados
