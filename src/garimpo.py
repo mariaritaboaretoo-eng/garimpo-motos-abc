@@ -90,10 +90,12 @@ def main():
     achados = garimpar(cfg)
     imprimir(achados)
 
-    if "--notificar" in sys.argv:
-        import notificar
+    # --pagina: so atualiza a pagina | --notificar: pagina + email
+    if "--notificar" in sys.argv or "--pagina" in sys.argv:
         import pagina
         pagina.gerar(achados, cfg)
+    if "--notificar" in sys.argv:
+        import notificar
         notificar.enviar(achados, cfg, url_pagina=os.environ.get("SITE_URL"))
 
 

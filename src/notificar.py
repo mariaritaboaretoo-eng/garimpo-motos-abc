@@ -1,19 +1,25 @@
-"""Envio de email via Resend (https://resend.com).
+"""Envio de e-mail via SMTP do Gmail (com App Password).
 
-Escolhido porque funciona sem PC ligado e sem login interativo: basta uma API key.
-Le tres variaveis de ambiente (secrets no GitHub Actions):
-  RESEND_API_KEY  - a chave da conta Resend
-  EMAIL_DE        - remetente (ex: 'Garimpo <onboarding@resend.dev>' p/ testar)
-  EMAIL_PARA      - destinatario (email dele)
+Por que Gmail SMTP e nao Resend/outro: pra mandar e-mail pra um destinatario qualquer
+(o e-mail dele) de graca, o Gmail e o caminho sem dor - o Resend so manda pra qualquer
+um se voce tiver um dominio proprio verificado. O Gmail manda pra qualquer endereco.
 
-So envia quando ha achados - nada de email vazio todo dia.
+Funciona sem PC ligado e sem login interativo (ao contrario do MCP do Gmail, que exige
+OAuth na hora): usa uma "Senha de app" de 16 digitos, gerada 1 vez na conta Google.
+
+Variaveis de ambiente (secrets no GitHub Actions):
+  GMAIL_USER          - o Gmail que ENVIA (ex: criativaria.contato@gmail.com)
+  GMAIL_APP_PASSWORD  - a Senha de app de 16 digitos (NAO e a senha normal da conta)
+  EMAIL_PARA          - destinatario (o e-mail dele)
+
+So envia quando ha achados - nada de e-mail vazio.
 """
 
 import os
-
-import requests
-
-RESEND_URL = "https://api.resend.com/emails"
+import smtplib
+import ssl
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 
 def _linha(a):
@@ -48,28 +54,27 @@ def enviar(achados, cfg, url_pagina=None):
     if not achados:
         print("[email] sem achados - nao envia.")
         return False
-    api_key = os.environ.get("RESEND_API_KEY")
-    de = os.environ.get("EMAIL_DE", "Garimpo de Motos <onboarding@resend.dev>")
+    user = os.environ.get("GMAIL_USER")
+    senha = os.environ.get("GMAIL_APP_PASSWORD")
     para = os.environ.get("EMAIL_PARA")
-    if not api_key or not para:
-        print("[email] faltando RESEND_API_KEY ou EMAIL_PARA - pulando envio.")
+    if not (user and senha and para):
+        print("[email] faltando GMAIL_USER / GMAIL_APP_PASSWORD / EMAIL_PARA - pulando envio.")
         return False
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = f"{len(achados)} moto(s) abaixo da FIPE no ABC"
+    msg["From"] = f"Garimpo de Motos <{user}>"
+    msg["To"] = para
+    msg.attach(MIMEText(_html(achados, cfg, url_pagina), "html"))
+
     try:
-        r = requests.post(
-            RESEND_URL,
-            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-            json={
-                "from": de,
-                "to": [para],
-                "subject": f"{len(achados)} moto(s) abaixo da FIPE no ABC",
-                "html": _html(achados, cfg, url_pagina),
-            },
-            timeout=30,
-        )
-        if r.status_code in (200, 201):
-            print(f"[email] enviado para {para}.")
-            return True
-        print(f"[email] falhou: {r.status_code} {r.text[:200]}")
-    except requests.RequestException as e:
-        print(f"[email] erro de rede: {e}")
-    return False
+        ctx = ssl.create_default_context()
+        with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as s:
+            s.starttls(context=ctx)
+            s.login(user, senha)
+            s.sendmail(user, [para], msg.as_string())
+        print(f"[email] enviado para {para}.")
+        return True
+    except Exception as e:
+        print(f"[email] falhou: {type(e).__name__}: {str(e)[:200]}")
+        return False

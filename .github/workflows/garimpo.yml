@@ -3,8 +3,9 @@ name: Garimpo de Motos
 # Roda na nuvem do GitHub - nao precisa de PC ligado.
 on:
   schedule:
-    - cron: "0 11 * * *"   # todo dia 08:00 BRT (11:00 UTC)
-  workflow_dispatch: {}     # botao de rodar na mao (aba Actions)
+    - cron: "0 12 * * *"   # 09:00 BRT (12:00 UTC): pagina + EMAIL
+    - cron: "0 15 * * *"   # 12:00 BRT (15:00 UTC): so atualiza a pagina
+  workflow_dispatch: {}     # botao de rodar na mao (aba Actions) -> pagina + email
 
 permissions:
   contents: write           # deixa o robo salvar a pagina atualizada de volta no repo
@@ -25,14 +26,18 @@ jobs:
       - name: Instalar navegador (Playwright/Chromium)
         run: python -m playwright install --with-deps chromium
 
-      - name: Rodar o garimpo (busca + FIPE + email + pagina)
+      - name: Rodar o garimpo (busca + FIPE + pagina [+ email as 09h])
         env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          EMAIL_DE: ${{ secrets.EMAIL_DE }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           EMAIL_PARA: ${{ secrets.EMAIL_PARA }}
           SITE_URL: ${{ secrets.SITE_URL }}
-          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
-        run: python src/garimpo.py --notificar
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 15 * * *" ]; then
+            python src/garimpo.py --pagina      # almoco: so pagina, sem email
+          else
+            python src/garimpo.py --notificar   # manha e manual: pagina + email
+          fi
 
       - name: Publicar a pagina atualizada
         run: |

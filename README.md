@@ -41,21 +41,23 @@ o navegador pra outro drive: `set PLAYWRIGHT_BROWSERS_PATH=D:\.ms-playwright` an
 Já está em `https://github.com/mariaritaboaretoo-eng/garimpo-motos-abc` (público → Actions
 ilimitado de graça). Se for recriar, suba estes arquivos num repositório público.
 
-### 2. Chave de e-mail (Resend) — grátis
-- Crie conta em https://resend.com (3.000 e-mails/mês grátis).
-- Em **API Keys**, gere uma chave (`re_...`).
-- Pra testar rápido, o remetente `onboarding@resend.dev` já funciona.
+### 2. E-mail — via Gmail (Senha de app)
+Usa o SMTP do Gmail (manda pra qualquer destinatário de graça; o Resend só manda pra
+qualquer um com domínio próprio verificado). Na conta Gmail que vai ENVIAR:
+1. Ative a **Verificação em duas etapas** (Conta Google → Segurança).
+2. Gere uma **Senha de app** (Segurança → Senhas de app) — 16 dígitos. **Não** é a senha normal.
 
 ### 3. Cadastrar os segredos (Settings → Secrets and variables → Actions)
 
 | Nome | Valor | Obrigatório |
 |------|-------|:-:|
-| `RESEND_API_KEY` | a chave `re_...` do Resend | sim (p/ e-mail) |
+| `GMAIL_USER` | o Gmail que envia (ex: `criativaria.contato@gmail.com`) | sim (p/ e-mail) |
+| `GMAIL_APP_PASSWORD` | a Senha de app de 16 dígitos | sim (p/ e-mail) |
 | `EMAIL_PARA` | o e-mail dele (destino) | sim (p/ e-mail) |
-| `EMAIL_DE` | `Garimpo de Motos <onboarding@resend.dev>` | opcional |
 | `SITE_URL` | link da página (passo 5) | opcional |
 
 > Sem esses secrets o robô ainda roda e atualiza a página — só não manda e-mail.
+> O robô roda 2×/dia: **09:00** (página + e-mail) e **12:00** (só página). Horários em `.github/workflows/garimpo.yml`.
 
 ### 4. Ligar o robô
 Aba **Actions** → habilite os workflows → **Garimpo de Motos** → **Run workflow**.
