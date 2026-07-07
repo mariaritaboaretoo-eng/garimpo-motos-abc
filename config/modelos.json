@@ -3,7 +3,7 @@
   "km_max": 30000,
   "desconto_min_pct": 5,
   "_nota_desconto": "Moto de km baixa raramente vende 10%+ abaixo da FIPE (os descontoes sao de km alta, que o filtro de km corta). Com 5% o radar pega as oportunidades reais de km baixa. Suba pra 8-10 se quiser so gemas raras (emails mais raros), baixe pra 0 pra ver tudo abaixo da FIPE.",
-  "paginas_por_modelo": 3,
+  "paginas_por_busca": 3,
   "cidades_abc": [
     "santo andre",
     "sao bernardo do campo",
