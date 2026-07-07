@@ -1,5 +1,5 @@
 {
-  "atualizado": "07/07/2026 as 16:46",
+  "atualizado": "07/07/2026 as 17:06",
   "achados": [
     {
       "titulo": "NMAX 160 CONECT LEIA O ANÚNCIO ",
@@ -228,25 +228,6 @@
       "desconto_pct": 5.3,
       "economia": 1055,
       "confianca_fipe": 1.35
-    },
-    {
-      "titulo": "PCX 160 DLX   2025",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 20000,
-      "ano": 2025,
-      "km": 7540,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2025-1511500968",
-      "texto": "PCX 160 DLX   2025",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 21092.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 5.2,
-      "economia": 1092,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
