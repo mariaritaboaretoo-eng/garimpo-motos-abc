@@ -86,6 +86,7 @@ def gerar(achados, cfg):
 </header>
 {corpo}
 <footer>
+  <div style="text-align:center;color:var(--ok);font-size:15px;margin-bottom:14px">Feito com carinho pro tio Robson &#128154;</div>
   Modelos monitorados: {html.escape(modelos)}.<br>
   Precos comparados com a Tabela FIPE (referencia; o casamento de versao e aproximado, confira no anuncio).
   Fonte dos anuncios: OLX. Radar automatico de oportunidades, nao e recomendacao de compra.

@@ -48,6 +48,7 @@ def _html(achados, cfg, url_pagina):
       <table style="width:100%;border-collapse:collapse">{linhas}</table>
       {link}
       <p style="color:#999;font-size:12px">Casamento de versao FIPE e aproximado - confira no anuncio.</p>
+      <p style="color:#0a0;font-size:14px;text-align:center;margin-top:16px">Feito com carinho pro tio Robson &#128154;</p>
     </div>""".replace(",", ".")
 
 
