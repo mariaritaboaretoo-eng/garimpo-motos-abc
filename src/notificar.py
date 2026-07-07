@@ -1,16 +1,17 @@
-"""Envio de e-mail via SMTP do Gmail (com App Password).
+"""Envio de e-mail por SMTP (funciona com qualquer provedor: Brevo, SMTP2GO, Gmail...).
 
-Por que Gmail SMTP e nao Resend/outro: pra mandar e-mail pra um destinatario qualquer
-(o e-mail dele) de graca, o Gmail e o caminho sem dor - o Resend so manda pra qualquer
-um se voce tiver um dominio proprio verificado. O Gmail manda pra qualquer endereco.
-
-Funciona sem PC ligado e sem login interativo (ao contrario do MCP do Gmail, que exige
-OAuth na hora): usa uma "Senha de app" de 16 digitos, gerada 1 vez na conta Google.
+Escolhemos um provedor SMTP com chave (ex: Brevo) porque manda pra QUALQUER destinatario
+de graca, sem precisar de dominio proprio (Resend exigiria) e sem "Senha de app" do Gmail
+(que o Google nao oferece mais para varias contas). Funciona sem PC ligado e sem login
+interativo (ao contrario do MCP do Gmail).
 
 Variaveis de ambiente (secrets no GitHub Actions):
-  GMAIL_USER          - o Gmail que ENVIA (ex: criativaria.contato@gmail.com)
-  GMAIL_APP_PASSWORD  - a Senha de app de 16 digitos (NAO e a senha normal da conta)
-  EMAIL_PARA          - destinatario (o e-mail dele)
+  SMTP_HOST      - servidor SMTP (ex: smtp-relay.brevo.com). Padrao: smtp.gmail.com
+  SMTP_PORT      - porta (padrao 587, STARTTLS)
+  SMTP_LOGIN     - usuario/login SMTP do provedor
+  SMTP_PASSWORD  - a chave/senha SMTP do provedor
+  EMAIL_DE       - remetente que aparece no "De:" (padrao = SMTP_LOGIN)
+  EMAIL_PARA     - destinatario (o e-mail dele)
 
 So envia quando ha achados - nada de e-mail vazio.
 """
@@ -54,26 +55,29 @@ def enviar(achados, cfg, url_pagina=None):
     if not achados:
         print("[email] sem achados - nao envia.")
         return False
-    user = os.environ.get("GMAIL_USER")
-    senha = os.environ.get("GMAIL_APP_PASSWORD")
+    host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
+    port = int(os.environ.get("SMTP_PORT", "587"))
+    login = os.environ.get("SMTP_LOGIN")
+    senha = os.environ.get("SMTP_PASSWORD")
     para = os.environ.get("EMAIL_PARA")
-    if not (user and senha and para):
-        print("[email] faltando GMAIL_USER / GMAIL_APP_PASSWORD / EMAIL_PARA - pulando envio.")
+    de = os.environ.get("EMAIL_DE", login)
+    if not (login and senha and para):
+        print("[email] faltando SMTP_LOGIN / SMTP_PASSWORD / EMAIL_PARA - pulando envio.")
         return False
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"{len(achados)} moto(s) abaixo da FIPE no ABC"
-    msg["From"] = f"Garimpo de Motos <{user}>"
+    msg["From"] = f"Garimpo de Motos <{de}>"
     msg["To"] = para
     msg.attach(MIMEText(_html(achados, cfg, url_pagina), "html"))
 
     try:
         ctx = ssl.create_default_context()
-        with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as s:
+        with smtplib.SMTP(host, port, timeout=30) as s:
             s.starttls(context=ctx)
-            s.login(user, senha)
-            s.sendmail(user, [para], msg.as_string())
-        print(f"[email] enviado para {para}.")
+            s.login(login, senha)
+            s.sendmail(de, [para], msg.as_string())
+        print(f"[email] enviado para {para} via {host}.")
         return True
     except Exception as e:
         print(f"[email] falhou: {type(e).__name__}: {str(e)[:200]}")
