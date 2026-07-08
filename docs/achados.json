@@ -1,5 +1,5 @@
 {
-  "atualizado": "07/07/2026 as 17:18",
+  "atualizado": "08/07/2026 as 14:14",
   "achados": [
     {
       "titulo": "NMAX 160 CONECT LEIA O ANÚNCIO ",
@@ -38,6 +38,25 @@
       "desconto_pct": 10.1,
       "economia": 3031,
       "confianca_fipe": 1.35
+    },
+    {
+      "titulo": "HONDA PCX DLX 2024 COM APENAS 10MIL KM, COMPLETÍSSIMA E IMPECÁVEL!!!",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17800,
+      "ano": 2024,
+      "km": 10888,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-2024-com-apenas-10mil-km-completissima-e-impecavel-1513950487",
+      "texto": "HONDA PCX DLX 2024 COM APENAS 10MIL KM, COMPLETÍSSIMA E IMPECÁVEL!!!",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19652.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 9.4,
+      "economia": 1852,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "Pcx dlx 160 zera sem detalhes só pegar e andar ",
@@ -95,44 +114,6 @@
       "desconto_pct": 8.2,
       "economia": 1203,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Nmax 2024 SE ABS",
-      "modelo_olx": "Yamaha Connected SE 160 ABS",
-      "marca_olx": "Yamaha",
-      "preco": 18500,
-      "ano": 2024,
-      "km": 27000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nmax-2024-se-abs-1508548207",
-      "texto": "Nmax 2024 SE ABS",
-      "modelo_monitorado": "Yamaha NMAX 160",
-      "fipe": 20073.0,
-      "modelo_fipe": "NMAX Connected SE 160 ABS",
-      "desconto_pct": 7.8,
-      "economia": 1573,
-      "confianca_fipe": 1.4
-    },
-    {
-      "titulo": "HONDA PCX DLX 2024 COM APENAS 10MIL KM, COMPLETÍSSIMA E IMPECÁVEL!!!",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 18199,
-      "ano": 2024,
-      "km": 10888,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-2024-com-apenas-10mil-km-completissima-e-impecavel-1513950487",
-      "texto": "HONDA PCX DLX 2024 COM APENAS 10MIL KM, COMPLETÍSSIMA E IMPECÁVEL!!!",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19652.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 7.4,
-      "economia": 1453,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "Honda Elite 125 ,KM baixíssimo ZERADA !!!",
