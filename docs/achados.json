@@ -1,5 +1,5 @@
 {
-  "atualizado": "10/07/2026 as 17:08",
+  "atualizado": "11/07/2026 as 12:35",
   "achados": [
     {
       "titulo": "Honda XRE 300",
@@ -192,25 +192,6 @@
       "confianca_fipe": 1.35
     },
     {
-      "titulo": "Pcx  dlx. (9800km)",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 18500,
-      "ano": 2024,
-      "km": 9800,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-9800km-1516643762",
-      "texto": "Pcx  dlx. (9800km)",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19652.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 5.9,
-      "economia": 1152,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -228,25 +209,6 @@
       "desconto_pct": 5.5,
       "economia": 803,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "PCX 160 DLX   2025",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 20000,
-      "ano": 2025,
-      "km": 7540,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2025-1511500968",
-      "texto": "PCX 160 DLX   2025",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 21092.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 5.2,
-      "economia": 1092,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
