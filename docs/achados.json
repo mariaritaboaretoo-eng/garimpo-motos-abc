@@ -1,5 +1,5 @@
 {
-  "atualizado": "12/07/2026 as 12:40",
+  "atualizado": "12/07/2026 as 15:13",
   "achados": [
     {
       "titulo": "Honda pcx 150 dlx",
@@ -18,6 +18,44 @@
       "modelo_fipe": "PCX 150/DLX",
       "desconto_pct": 19.8,
       "economia": 2472,
+      "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "YAMAHA NMAX 160 2018 km baixo",
+      "modelo_olx": "Yamaha 160",
+      "marca_olx": "Yamaha",
+      "preco": 11900,
+      "ano": 2018,
+      "km": 10400,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-nmax-160-2018-km-baixo-1517554301",
+      "texto": "YAMAHA NMAX 160 2018 km baixo",
+      "modelo_monitorado": "Yamaha NMAX 160",
+      "fipe": 14136.0,
+      "modelo_fipe": "NMAX 160",
+      "desconto_pct": 15.8,
+      "economia": 2236,
+      "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Yamaha Lander 250 com 7.000km",
+      "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
+      "marca_olx": "Yamaha",
+      "preco": 21500,
+      "ano": 2023,
+      "km": 7000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-lander-250-com-7-000km-1497100895",
+      "texto": "Yamaha Lander 250 com 7.000km",
+      "modelo_monitorado": "Yamaha Lander 250",
+      "fipe": 25366.0,
+      "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
+      "desconto_pct": 15.2,
+      "economia": 3866,
       "confianca_fipe": 1.27
     },
     {
