@@ -1,5 +1,5 @@
 {
-  "atualizado": "12/07/2026 as 15:13",
+  "atualizado": "13/07/2026 as 15:21",
   "achados": [
     {
       "titulo": "Honda pcx 150 dlx",
@@ -56,6 +56,25 @@
       "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
       "desconto_pct": 15.2,
       "economia": 3866,
+      "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "HONDA PCX DLX 2023",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 16500,
+      "ano": 2023,
+      "km": 15000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-2023-1493102917",
+      "texto": "HONDA PCX DLX 2023",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 18864.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 12.5,
+      "economia": 2364,
       "confianca_fipe": 1.27
     },
     {
@@ -116,23 +135,23 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "HONDA PCX DLX 2024 COM APENAS 10MIL KM, COMPLETÍSSIMA E IMPECÁVEL!!!",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 17800,
-      "ano": 2024,
-      "km": 10888,
+      "titulo": "Fazer 250 ",
+      "modelo_olx": "Yamaha 250 Fazer Flex",
+      "marca_olx": "Yamaha",
+      "preco": 18000,
+      "ano": 2022,
+      "km": 21274,
       "municipio": "Santo André",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-2024-com-apenas-10mil-km-completissima-e-impecavel-1513950487",
-      "texto": "HONDA PCX DLX 2024 COM APENAS 10MIL KM, COMPLETÍSSIMA E IMPECÁVEL!!!",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19652.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 9.4,
-      "economia": 1852,
-      "confianca_fipe": 1.27
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/fazer-250-1517774578",
+      "texto": "Fazer 250 ",
+      "modelo_monitorado": "Yamaha Fazer 250",
+      "fipe": 20190.0,
+      "modelo_fipe": "FZ25 250 FAZER FLEX",
+      "desconto_pct": 10.8,
+      "economia": 2190,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "Honda elite 125 ",
@@ -154,6 +173,25 @@
       "confianca_fipe": 1.1
     },
     {
+      "titulo": "Pcx dlx 160 zera sem detalhes só pegar e andar ",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 20000,
+      "ano": 2026,
+      "km": 5304,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-160-zera-sem-detalhes-so-pegar-e-andar-1516009331",
+      "texto": "Pcx dlx 160 zera sem detalhes só pegar e andar ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 21977.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 9.0,
+      "economia": 1977,
+      "confianca_fipe": 1.27
+    },
+    {
       "titulo": "HONDA ELITE 125 25/25",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -170,25 +208,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 8.2,
       "economia": 1203,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Honda PCX 2024 ABS",
-      "modelo_olx": "Honda 160",
-      "marca_olx": "Honda",
-      "preco": 18000,
-      "ano": 2024,
-      "km": 16000,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-2024-abs-1517073566",
-      "texto": "Honda PCX 2024 ABS",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19419.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 7.3,
-      "economia": 1419,
       "confianca_fipe": 1.1
     },
     {
