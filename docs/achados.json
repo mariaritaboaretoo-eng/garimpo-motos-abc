@@ -1,5 +1,5 @@
 {
-  "atualizado": "14/07/2026 as 13:44",
+  "atualizado": "14/07/2026 as 15:50",
   "achados": [
     {
       "titulo": "Honda pcx 150 dlx",
@@ -171,44 +171,6 @@
       "desconto_pct": 8.2,
       "economia": 1203,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Honda CG 160 Fan Flex 2024 Moto Único Dono",
-      "modelo_olx": "Honda 160 FAN Flex",
-      "marca_olx": "Honda",
-      "preco": 16500,
-      "ano": 2024,
-      "km": 13499,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-flex-2024-moto-unico-dono-1504651029",
-      "texto": "Honda CG 160 Fan Flex 2024 Moto Único Dono",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 17762.0,
-      "modelo_fipe": "CG 160 FAN Flex",
-      "desconto_pct": 7.1,
-      "economia": 1262,
-      "confianca_fipe": 1.35
-    },
-    {
-      "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
-      "modelo_olx": "Honda 160 Bros Esdd Flexone",
-      "marca_olx": "Honda",
-      "preco": 18990,
-      "ano": 2023,
-      "km": 25000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nxr-160-bros-160-esdd-preta-2022-2023-1509222209",
-      "texto": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
-      "modelo_monitorado": "Honda NXR Bros",
-      "fipe": 20024.0,
-      "modelo_fipe": "NXR 160 BROS ESDD FLEXONE",
-      "desconto_pct": 5.2,
-      "economia": 1034,
-      "confianca_fipe": 1.4
     }
   ]
 }
