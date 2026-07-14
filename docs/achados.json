@@ -1,11 +1,11 @@
 {
-  "atualizado": "13/07/2026 as 17:04",
+  "atualizado": "14/07/2026 as 13:44",
   "achados": [
     {
       "titulo": "Honda pcx 150 dlx",
       "modelo_olx": "Honda 150/dlx",
       "marca_olx": "Honda",
-      "preco": 9990,
+      "preco": 9999,
       "ano": 2016,
       "km": 107,
       "municipio": "Mauá",
@@ -17,7 +17,7 @@
       "fipe": 12462.0,
       "modelo_fipe": "PCX 150/DLX",
       "desconto_pct": 19.8,
-      "economia": 2472,
+      "economia": 2463,
       "confianca_fipe": 1.27
     },
     {
@@ -152,44 +152,6 @@
       "desconto_pct": 10.8,
       "economia": 2190,
       "confianca_fipe": 1.35
-    },
-    {
-      "titulo": "Honda elite 125 ",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 12000,
-      "ano": 2022,
-      "km": 16043,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1516991810",
-      "texto": "Honda elite 125 ",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 13245.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 9.4,
-      "economia": 1245,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Pcx dlx 160 zera sem detalhes só pegar e andar ",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 20000,
-      "ano": 2026,
-      "km": 5304,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-160-zera-sem-detalhes-so-pegar-e-andar-1516009331",
-      "texto": "Pcx dlx 160 zera sem detalhes só pegar e andar ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 21977.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 9.0,
-      "economia": 1977,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "HONDA ELITE 125 25/25",
