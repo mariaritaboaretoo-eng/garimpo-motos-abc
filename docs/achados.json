@@ -1,25 +1,6 @@
 {
-  "atualizado": "14/07/2026 as 15:50",
+  "atualizado": "15/07/2026 as 13:54",
   "achados": [
-    {
-      "titulo": "Honda pcx 150 dlx",
-      "modelo_olx": "Honda 150/dlx",
-      "marca_olx": "Honda",
-      "preco": 9999,
-      "ano": 2016,
-      "km": 107,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-150-dlx-1517392091",
-      "texto": "Honda pcx 150 dlx",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 12462.0,
-      "modelo_fipe": "PCX 150/DLX",
-      "desconto_pct": 19.8,
-      "economia": 2463,
-      "confianca_fipe": 1.27
-    },
     {
       "titulo": "YAMAHA NMAX 160 2018 km baixo",
       "modelo_olx": "Yamaha 160",
@@ -59,25 +40,6 @@
       "confianca_fipe": 1.27
     },
     {
-      "titulo": "HONDA PCX DLX 2023",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 16500,
-      "ano": 2023,
-      "km": 15000,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-2023-1493102917",
-      "texto": "HONDA PCX DLX 2023",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 18864.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 12.5,
-      "economia": 2364,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "Vende-se Biz 110i",
       "modelo_olx": "Honda 110i",
       "marca_olx": "Honda",
@@ -95,6 +57,25 @@
       "desconto_pct": 12.1,
       "economia": 1500,
       "confianca_fipe": 0.5
+    },
+    {
+      "titulo": "HONDA ELITE 125 25/25",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 13000,
+      "ano": 2025,
+      "km": 1950,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-25-25-1514601234",
+      "texto": "HONDA ELITE 125 25/25",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 14703.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 11.6,
+      "economia": 1703,
+      "confianca_fipe": 1.1
     },
     {
       "titulo": "Honda XRE 300",
@@ -154,23 +135,23 @@
       "confianca_fipe": 1.35
     },
     {
-      "titulo": "HONDA ELITE 125 25/25",
-      "modelo_olx": "Honda 125",
+      "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
+      "modelo_olx": "Honda 160 Bros Esdd Flexone",
       "marca_olx": "Honda",
-      "preco": 13500,
-      "ano": 2025,
-      "km": 1950,
-      "municipio": "São Bernardo do Campo",
+      "preco": 18990,
+      "ano": 2023,
+      "km": 25000,
+      "municipio": "Santo André",
       "uf": "SP",
       "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-25-25-1514601234",
-      "texto": "HONDA ELITE 125 25/25",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14703.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 8.2,
-      "economia": 1203,
-      "confianca_fipe": 1.1
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nxr-160-bros-160-esdd-preta-2022-2023-1509222209",
+      "texto": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
+      "modelo_monitorado": "Honda NXR Bros",
+      "fipe": 20024.0,
+      "modelo_fipe": "NXR 160 BROS ESDD FLEXONE",
+      "desconto_pct": 5.2,
+      "economia": 1034,
+      "confianca_fipe": 1.4
     }
   ]
 }
