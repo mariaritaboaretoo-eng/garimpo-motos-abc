@@ -1,5 +1,5 @@
 {
-  "atualizado": "20/07/2026 as 14:09",
+  "atualizado": "20/07/2026 as 17:15",
   "achados": [
     {
       "titulo": "Yamaha Lander 250 com 7.000km",
@@ -151,6 +151,25 @@
       "modelo_fipe": "PCX 160 ",
       "desconto_pct": 7.8,
       "economia": 1519,
+      "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Honda PCX 2024 ABS",
+      "modelo_olx": "Honda 160",
+      "marca_olx": "Honda",
+      "preco": 18000,
+      "ano": 2024,
+      "km": 16000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-2024-abs-1517073566",
+      "texto": "Honda PCX 2024 ABS",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19419.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 7.3,
+      "economia": 1419,
       "confianca_fipe": 1.1
     },
     {
