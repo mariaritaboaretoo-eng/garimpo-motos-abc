@@ -1,5 +1,5 @@
 {
-  "atualizado": "27/07/2026 as 15:01",
+  "atualizado": "27/07/2026 as 17:11",
   "achados": [
     {
       "titulo": "HONDA ELITE 125 25/26",
@@ -95,6 +95,25 @@
       "desconto_pct": 12.0,
       "economia": 1916,
       "confianca_fipe": 1.35
+    },
+    {
+      "titulo": "Pcx dlx a mais top de linha.",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17900,
+      "ano": 2024,
+      "km": 12000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-a-mais-top-de-linha-1520785749",
+      "texto": "Pcx dlx a mais top de linha.",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19652.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 8.9,
+      "economia": 1752,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "Vendo Elite 125! Bem nova.",
