@@ -1,5 +1,5 @@
 {
-  "atualizado": "31/07/2026 as 14:13",
+  "atualizado": "31/07/2026 as 17:13",
   "achados": [
     {
       "titulo": "Yamaha Lander 250 com 7.000km",
@@ -19,25 +19,6 @@
       "desconto_pct": 15.2,
       "economia": 3866,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "HONDA CG 160 FAN 2026",
-      "modelo_olx": "Honda 160 FAN Flex",
-      "marca_olx": "Honda",
-      "preco": 18000,
-      "ano": 2026,
-      "km": 6700,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-2026-1522711187",
-      "texto": "HONDA CG 160 FAN 2026",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 20500.0,
-      "modelo_fipe": "CG 160 FAN Flex",
-      "desconto_pct": 12.2,
-      "economia": 2500,
-      "confianca_fipe": 1.35
     },
     {
       "titulo": "CG 160 Fan 2021/2022 Flex - Azul - 21.672 km",
@@ -227,25 +208,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 5.2,
       "economia": 738,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Vendo Elite 125! Bem nova.",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 13500,
-      "ano": 2024,
-      "km": 17500,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-elite-125-bem-nova-1519453303",
-      "texto": "Vendo Elite 125! Bem nova.",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14237.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 5.2,
-      "economia": 737,
       "confianca_fipe": 1.1
     },
     {
