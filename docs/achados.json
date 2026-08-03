@@ -1,5 +1,5 @@
 {
-  "atualizado": "02/08/2026 as 15:17",
+  "atualizado": "03/08/2026 as 15:28",
   "achados": [
     {
       "titulo": "Yamaha Lander 250 com 7.000km",
@@ -21,25 +21,6 @@
       "confianca_fipe": 1.27
     },
     {
-      "titulo": "PCX 3.500 KM abaixo Fipe",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 19900,
-      "ano": 2026,
-      "km": 3500,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-3-500-km-abaixo-fipe-1518829257",
-      "texto": "PCX 3.500 KM abaixo Fipe",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 21977.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 9.5,
-      "economia": 2077,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "Yamaha 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -57,6 +38,25 @@
       "desconto_pct": 8.9,
       "economia": 1887,
       "confianca_fipe": 1.4
+    },
+    {
+      "titulo": "Pcx dlx a mais top de linha.",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17900,
+      "ano": 2024,
+      "km": 12000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-a-mais-top-de-linha-1520785749",
+      "texto": "Pcx dlx a mais top de linha.",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19553.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 8.5,
+      "economia": 1653,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "Honda elite 125",
@@ -95,25 +95,6 @@
       "desconto_pct": 6.9,
       "economia": 931,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "Yamaha Nmax 160 2020",
-      "modelo_olx": "Yamaha 160",
-      "marca_olx": "Yamaha",
-      "preco": 14200,
-      "ano": 2020,
-      "km": 10500,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-nmax-160-2020-1522617208",
-      "texto": "Yamaha Nmax 160 2020",
-      "modelo_monitorado": "Yamaha NMAX 160",
-      "fipe": 15115.0,
-      "modelo_fipe": "NMAX 160",
-      "desconto_pct": 6.1,
-      "economia": 915,
-      "confianca_fipe": 1.1
     }
   ]
 }
