@@ -1,5 +1,5 @@
 {
-  "atualizado": "05/08/2026 as 14:14",
+  "atualizado": "05/08/2026 as 17:22",
   "achados": [
     {
       "titulo": "Vendo nmax marrom 1010 km ",
@@ -76,6 +76,25 @@
       "desconto_pct": 8.9,
       "economia": 1887,
       "confianca_fipe": 1.4
+    },
+    {
+      "titulo": "Pcx dlx a mais top de linha.",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17900,
+      "ano": 2024,
+      "km": 12000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-a-mais-top-de-linha-1520785749",
+      "texto": "Pcx dlx a mais top de linha.",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19553.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 8.5,
+      "economia": 1653,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "Honda elite 125",
