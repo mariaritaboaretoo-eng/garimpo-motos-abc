@@ -1,25 +1,6 @@
 {
-  "atualizado": "05/08/2026 as 17:22",
+  "atualizado": "06/08/2026 as 10:43",
   "achados": [
-    {
-      "titulo": "Vendo nmax marrom 1010 km ",
-      "modelo_olx": "Yamaha Connected 160 ABS",
-      "marca_olx": "Yamaha",
-      "preco": 10000,
-      "ano": 2026,
-      "km": 1010,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-nmax-marrom-1010-km-1523527492",
-      "texto": "Vendo nmax marrom 1010 km ",
-      "modelo_monitorado": "Yamaha NMAX 160",
-      "fipe": 20815.0,
-      "modelo_fipe": "NMAX Connected 160 ABS",
-      "desconto_pct": 52.0,
-      "economia": 10815,
-      "confianca_fipe": 1.35
-    },
     {
       "titulo": "Honda ELITE 125 Branca Ano 2019 + Capacete + Baú Givi - Abaixo da Tabela",
       "modelo_olx": "Honda 125",
@@ -59,6 +40,25 @@
       "confianca_fipe": 1.27
     },
     {
+      "titulo": "Honda elite 125",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 12800,
+      "ano": 2024,
+      "km": 16500,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1524207295",
+      "texto": "Honda elite 125",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 14123.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 9.4,
+      "economia": 1323,
+      "confianca_fipe": 1.1
+    },
+    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "Yamaha 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -76,25 +76,6 @@
       "desconto_pct": 8.9,
       "economia": 1887,
       "confianca_fipe": 1.4
-    },
-    {
-      "titulo": "Pcx dlx a mais top de linha.",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 17900,
-      "ano": 2024,
-      "km": 12000,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-dlx-a-mais-top-de-linha-1520785749",
-      "texto": "Pcx dlx a mais top de linha.",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19553.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 8.5,
-      "economia": 1653,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "Honda elite 125",
