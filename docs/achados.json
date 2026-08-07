@@ -1,5 +1,5 @@
 {
-  "atualizado": "07/08/2026 as 09:41",
+  "atualizado": "07/08/2026 as 13:02",
   "achados": [
     {
       "titulo": "Honda ELITE 125 Branca Ano 2019 + Capacete + Baú Givi - Abaixo da Tabela",
@@ -113,25 +113,6 @@
       "modelo_fipe": "BIZ 125 ES/ 125 ES FLEX",
       "desconto_pct": 8.2,
       "economia": 977,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Honda elite 125",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 13500,
-      "ano": 2025,
-      "km": 5000,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1521346126",
-      "texto": "Honda elite 125",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14711.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 8.2,
-      "economia": 1211,
       "confianca_fipe": 1.1
     },
     {
