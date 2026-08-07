@@ -1,5 +1,5 @@
 {
-  "atualizado": "06/08/2026 as 10:43",
+  "atualizado": "07/08/2026 as 09:41",
   "achados": [
     {
       "titulo": "Honda ELITE 125 Branca Ano 2019 + Capacete + Baú Givi - Abaixo da Tabela",
@@ -40,6 +40,25 @@
       "confianca_fipe": 1.27
     },
     {
+      "titulo": "Honda pcx 160 2024",
+      "modelo_olx": "Honda 160",
+      "marca_olx": "Honda",
+      "preco": 17500,
+      "ano": 2024,
+      "km": 16600,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-1524409676",
+      "texto": "Honda pcx 160 2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19321.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 9.4,
+      "economia": 1821,
+      "confianca_fipe": 1.1
+    },
+    {
       "titulo": "Honda elite 125",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -78,6 +97,25 @@
       "confianca_fipe": 1.4
     },
     {
+      "titulo": "Honda Biz 2015 ",
+      "modelo_olx": "Honda 125 ES/ ES F.inj./es MIX F.injection",
+      "marca_olx": "Honda",
+      "preco": 10900,
+      "ano": 2015,
+      "km": 23600,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-2015-1512096020",
+      "texto": "Honda Biz 2015 ",
+      "modelo_monitorado": "Honda Biz",
+      "fipe": 11877.0,
+      "modelo_fipe": "BIZ 125 ES/ 125 ES FLEX",
+      "desconto_pct": 8.2,
+      "economia": 977,
+      "confianca_fipe": 1.1
+    },
+    {
       "titulo": "Honda elite 125",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -95,44 +133,6 @@
       "desconto_pct": 8.2,
       "economia": 1211,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Honda PCX 160 2025 - 16.000 km",
-      "modelo_olx": "Honda 160",
-      "marca_olx": "Honda",
-      "preco": 18900,
-      "ano": 2025,
-      "km": 16000,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2025-16-000-km-1523698126",
-      "texto": "Honda PCX 160 2025 - 16.000 km",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 20536.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 8.0,
-      "economia": 1636,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 19500,
-      "ano": 2025,
-      "km": 16200,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2025-moto-zerada-abaixo-da-fipe-peq-monta-1523785722",
-      "texto": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 20986.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 7.1,
-      "economia": 1486,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "ELITE 125 ANO 2023",
@@ -171,6 +171,44 @@
       "desconto_pct": 5.8,
       "economia": 1165,
       "confianca_fipe": 1.4
+    },
+    {
+      "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 13900,
+      "ano": 2025,
+      "km": 8053,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-cbs-2025-com-8-mil-km-bel-motos-1495773872",
+      "texto": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 14711.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 5.5,
+      "economia": 811,
+      "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Pcx 2025 parcelo no cartão.",
+      "modelo_olx": "Honda 160",
+      "marca_olx": "Honda",
+      "preco": 19500,
+      "ano": 2025,
+      "km": 8000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-2025-parcelo-no-cartao-1524385349",
+      "texto": "Pcx 2025 parcelo no cartão.",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 20536.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 5.0,
+      "economia": 1036,
+      "confianca_fipe": 1.1
     }
   ]
 }
