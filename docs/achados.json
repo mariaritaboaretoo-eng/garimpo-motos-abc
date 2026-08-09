@@ -1,5 +1,5 @@
 {
-  "atualizado": "09/08/2026 as 09:30",
+  "atualizado": "09/08/2026 as 12:39",
   "achados": [
     {
       "titulo": "Honda ELITE 125 Branca Ano 2019 + Capacete + Baú Givi - Abaixo da Tabela",
@@ -38,25 +38,6 @@
       "desconto_pct": 12.0,
       "economia": 2943,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "Honda pcx 160 2024",
-      "modelo_olx": "Honda 160",
-      "marca_olx": "Honda",
-      "preco": 17500,
-      "ano": 2024,
-      "km": 16600,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-1524409676",
-      "texto": "Honda pcx 160 2024",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19321.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 9.4,
-      "economia": 1821,
-      "confianca_fipe": 1.1
     },
     {
       "titulo": "Honda elite 125",
@@ -189,25 +170,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 5.5,
       "economia": 811,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Pcx 2025 parcelo no cartão.",
-      "modelo_olx": "Honda 160",
-      "marca_olx": "Honda",
-      "preco": 19500,
-      "ano": 2025,
-      "km": 8000,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-2025-parcelo-no-cartao-1524385349",
-      "texto": "Pcx 2025 parcelo no cartão.",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 20536.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 5.0,
-      "economia": 1036,
       "confianca_fipe": 1.1
     }
   ]
