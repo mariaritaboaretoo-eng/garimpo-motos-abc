@@ -1,5 +1,5 @@
 {
-  "atualizado": "09/08/2026 as 12:39",
+  "atualizado": "10/08/2026 as 09:46",
   "achados": [
     {
       "titulo": "Honda ELITE 125 Branca Ano 2019 + Capacete + Baú Givi - Abaixo da Tabela",
@@ -171,6 +171,25 @@
       "desconto_pct": 5.5,
       "economia": 811,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Factor 150 2024  $15.300",
+      "modelo_olx": "Yamaha 150 ED",
+      "marca_olx": "Yamaha",
+      "preco": 15300,
+      "ano": 2024,
+      "km": 20200,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/factor-150-2024-15-300-1524976110",
+      "texto": "Factor 150 2024  $15.300",
+      "modelo_monitorado": "Yamaha Factor 150",
+      "fipe": 16193.0,
+      "modelo_fipe": "YBR 150 FACTOR ED/FLEX",
+      "desconto_pct": 5.5,
+      "economia": 893,
+      "confianca_fipe": 1.0
     }
   ]
 }
