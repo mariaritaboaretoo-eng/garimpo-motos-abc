@@ -1,6 +1,25 @@
 {
-  "atualizado": "10/08/2026 as 09:46",
+  "atualizado": "10/08/2026 as 13:05",
   "achados": [
+    {
+      "titulo": "Honda pcx branca único dono",
+      "modelo_olx": "Honda 160",
+      "marca_olx": "Honda",
+      "preco": 15000,
+      "ano": 2023,
+      "km": 11000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-branca-unico-dono-1525139248",
+      "texto": "Honda pcx branca único dono",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 18540.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 19.1,
+      "economia": 3540,
+      "confianca_fipe": 1.1
+    },
     {
       "titulo": "Honda ELITE 125 Branca Ano 2019 + Capacete + Baú Givi - Abaixo da Tabela",
       "modelo_olx": "Honda 125",
@@ -95,25 +114,6 @@
       "desconto_pct": 8.2,
       "economia": 977,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 19500,
-      "ano": 2025,
-      "km": 16200,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2025-moto-zerada-abaixo-da-fipe-peq-monta-1523785722",
-      "texto": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 20986.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 7.1,
-      "economia": 1486,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "ELITE 125 ANO 2023",
