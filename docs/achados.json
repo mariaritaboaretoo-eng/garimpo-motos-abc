@@ -1,5 +1,5 @@
 {
-  "atualizado": "11/08/2026 as 09:42",
+  "atualizado": "11/08/2026 as 13:05",
   "achados": [
     {
       "titulo": "Honda pcx branca único dono",
@@ -75,6 +75,25 @@
       "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
       "desconto_pct": 12.0,
       "economia": 2943,
+      "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "PCX 160 DLX 2024 ",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17500,
+      "ano": 2024,
+      "km": 13000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2024-1525450606",
+      "texto": "PCX 160 DLX 2024 ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19553.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 10.5,
+      "economia": 2053,
       "confianca_fipe": 1.27
     },
     {
