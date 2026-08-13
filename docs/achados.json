@@ -1,6 +1,25 @@
 {
-  "atualizado": "13/08/2026 as 09:46",
+  "atualizado": "13/08/2026 as 13:04",
   "achados": [
+    {
+      "titulo": "Honda elite 125 2026",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 9000,
+      "ano": 2026,
+      "km": 424,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-2026-1524814400",
+      "texto": "Honda elite 125 2026",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 15423.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 41.6,
+      "economia": 6423,
+      "confianca_fipe": 1.1
+    },
     {
       "titulo": "Elite 125 automatica baixo km",
       "modelo_olx": "Honda 125",
@@ -114,6 +133,25 @@
       "desconto_pct": 8.9,
       "economia": 1887,
       "confianca_fipe": 1.4
+    },
+    {
+      "titulo": "Honda PCX 160 DLX com ABS ano 2024/2024",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17999,
+      "ano": 2024,
+      "km": 16000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-dlx-com-abs-ano-2024-2024-1525744848",
+      "texto": "Honda PCX 160 DLX com ABS ano 2024/2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19553.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 7.9,
+      "economia": 1554,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "ELITE 125 ANO 2023",
