@@ -1,5 +1,5 @@
 {
-  "atualizado": "14/08/2026 as 09:43",
+  "atualizado": "14/08/2026 as 12:58",
   "achados": [
     {
       "titulo": "Honda elite 125 2026",
@@ -21,23 +21,23 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "Honda PCX 160 DLX com ABS ano 2024/2024",
-      "modelo_olx": "Honda 160 DLX",
+      "titulo": "Vendo cg 160 fan ano 21/22",
+      "modelo_olx": "Honda 160 FAN Flex",
       "marca_olx": "Honda",
-      "preco": 17000,
-      "ano": 2024,
-      "km": 16000,
-      "municipio": "Santo André",
+      "preco": 13500,
+      "ano": 2022,
+      "km": 21800,
+      "municipio": "São Bernardo do Campo",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-dlx-com-abs-ano-2024-2024-1525744848",
-      "texto": "Honda PCX 160 DLX com ABS ano 2024/2024",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19553.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 13.1,
-      "economia": 2553,
-      "confianca_fipe": 1.27
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-cg-160-fan-ano-21-22-1503029589",
+      "texto": "Vendo cg 160 fan ano 21/22",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 15836.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 14.8,
+      "economia": 2336,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "Elite 125 automatica baixo km",
