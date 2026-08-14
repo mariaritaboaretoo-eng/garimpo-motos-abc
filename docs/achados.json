@@ -1,5 +1,5 @@
 {
-  "atualizado": "13/08/2026 as 13:04",
+  "atualizado": "14/08/2026 as 09:43",
   "achados": [
     {
       "titulo": "Honda elite 125 2026",
@@ -19,6 +19,25 @@
       "desconto_pct": 41.6,
       "economia": 6423,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Honda PCX 160 DLX com ABS ano 2024/2024",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17000,
+      "ano": 2024,
+      "km": 16000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-dlx-com-abs-ano-2024-2024-1525744848",
+      "texto": "Honda PCX 160 DLX com ABS ano 2024/2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19553.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 13.1,
+      "economia": 2553,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "Elite 125 automatica baixo km",
@@ -59,25 +78,6 @@
       "confianca_fipe": 1.27
     },
     {
-      "titulo": "PCX 160 DLX 2024 ",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 17500,
-      "ano": 2024,
-      "km": 13000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2024-1525450606",
-      "texto": "PCX 160 DLX 2024 ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19553.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 10.5,
-      "economia": 2053,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "Honda elite 125",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -95,25 +95,6 @@
       "desconto_pct": 9.4,
       "economia": 1323,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Honda BIZ 125 ES/ 125 ES FLEX",
-      "modelo_olx": "Honda 125 EX/ 125 EX Flex",
-      "marca_olx": "Honda",
-      "preco": 15990,
-      "ano": 2026,
-      "km": 985,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-125-es-125-es-flex-1522597559",
-      "texto": "Honda BIZ 125 ES/ 125 ES FLEX",
-      "modelo_monitorado": "Honda Biz",
-      "fipe": 17634.0,
-      "modelo_fipe": "BIZ 125 EX/ 125 EX FLEX",
-      "desconto_pct": 9.3,
-      "economia": 1644,
-      "confianca_fipe": 1.35
     },
     {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
@@ -135,22 +116,22 @@
       "confianca_fipe": 1.4
     },
     {
-      "titulo": "Honda PCX 160 DLX com ABS ano 2024/2024",
+      "titulo": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
       "modelo_olx": "Honda 160 DLX",
       "marca_olx": "Honda",
-      "preco": 17999,
-      "ano": 2024,
-      "km": 16000,
-      "municipio": "Santo André",
+      "preco": 19500,
+      "ano": 2025,
+      "km": 16200,
+      "municipio": "São Bernardo do Campo",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-dlx-com-abs-ano-2024-2024-1525744848",
-      "texto": "Honda PCX 160 DLX com ABS ano 2024/2024",
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2025-moto-zerada-abaixo-da-fipe-peq-monta-1523785722",
+      "texto": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
       "modelo_monitorado": "Honda PCX",
-      "fipe": 19553.0,
+      "fipe": 20986.0,
       "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 7.9,
-      "economia": 1554,
+      "desconto_pct": 7.1,
+      "economia": 1486,
       "confianca_fipe": 1.27
     },
     {
