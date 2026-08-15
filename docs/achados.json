@@ -1,5 +1,5 @@
 {
-  "atualizado": "15/08/2026 as 09:20",
+  "atualizado": "15/08/2026 as 12:29",
   "achados": [
     {
       "titulo": "Honda elite 125 2026",
@@ -190,6 +190,25 @@
       "desconto_pct": 7.1,
       "economia": 1486,
       "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "Fazer 250 com 21mil km ",
+      "modelo_olx": "Yamaha 250 Fazer Flex",
+      "marca_olx": "Yamaha",
+      "preco": 18700,
+      "ano": 2022,
+      "km": 21000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/fazer-250-com-21mil-km-1526562597",
+      "texto": "Fazer 250 com 21mil km ",
+      "modelo_monitorado": "Yamaha Fazer 250",
+      "fipe": 20029.0,
+      "modelo_fipe": "FZ25 250 FAZER FLEX",
+      "desconto_pct": 6.6,
+      "economia": 1329,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "ELITE 125 ANO 2023",
