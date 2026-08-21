@@ -1,5 +1,5 @@
 {
-  "atualizado": "21/08/2026 as 09:27",
+  "atualizado": "21/08/2026 as 12:40",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -151,25 +151,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 10.5,
       "economia": 1623,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Honda elite 125",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 12800,
-      "ano": 2024,
-      "km": 16500,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1524207295",
-      "texto": "Honda elite 125",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14123.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 9.4,
-      "economia": 1323,
       "confianca_fipe": 1.1
     },
     {
