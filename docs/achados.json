@@ -1,5 +1,5 @@
 {
-  "atualizado": "22/08/2026 as 09:20",
+  "atualizado": "22/08/2026 as 12:28",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -227,6 +227,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 8.4,
       "economia": 1093,
+      "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "NMAX AUTOMÁTICA ",
+      "modelo_olx": "Yamaha 160",
+      "marca_olx": "Yamaha",
+      "preco": 15999,
+      "ano": 2022,
+      "km": 11100,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nmax-automatica-1528543743",
+      "texto": "NMAX AUTOMÁTICA ",
+      "modelo_monitorado": "Yamaha NMAX 160",
+      "fipe": 17207.0,
+      "modelo_fipe": "NMAX 160",
+      "desconto_pct": 7.0,
+      "economia": 1208,
       "confianca_fipe": 1.1
     },
     {
