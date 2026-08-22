@@ -1,5 +1,5 @@
 {
-  "atualizado": "21/08/2026 as 12:40",
+  "atualizado": "22/08/2026 as 09:20",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -37,6 +37,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 41.6,
       "economia": 6423,
+      "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Honda Elite 125",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 10000,
+      "ano": 2022,
+      "km": 25400,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1528346578",
+      "texto": "Honda Elite 125",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 13083.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 23.6,
+      "economia": 3083,
       "confianca_fipe": 1.1
     },
     {
@@ -173,25 +192,6 @@
       "confianca_fipe": 1.35
     },
     {
-      "titulo": "Honda Cg 160 Start 2024",
-      "modelo_olx": "Honda 160 Start",
-      "marca_olx": "Honda",
-      "preco": 14990,
-      "ano": 2024,
-      "km": 21000,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-start-2024-1527681902",
-      "texto": "Honda Cg 160 Start 2024",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 16451.0,
-      "modelo_fipe": "CG 160 START",
-      "desconto_pct": 8.9,
-      "economia": 1461,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "Yamaha 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -230,25 +230,6 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "Honda Pcx DLX ABS 2025 azul escura com bege ",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 19500,
-      "ano": 2025,
-      "km": 6700,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-abs-2025-azul-escura-com-bege-1526647660",
-      "texto": "Honda Pcx DLX ABS 2025 azul escura com bege ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 20986.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 7.1,
-      "economia": 1486,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "Honda Elite 125 2021 Vermelha - Apenas 1.500 km!",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -285,25 +266,6 @@
       "desconto_pct": 5.8,
       "economia": 1165,
       "confianca_fipe": 1.4
-    },
-    {
-      "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 13900,
-      "ano": 2025,
-      "km": 8053,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-cbs-2025-com-8-mil-km-bel-motos-1495773872",
-      "texto": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14711.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 5.5,
-      "economia": 811,
-      "confianca_fipe": 1.1
     }
   ]
 }
