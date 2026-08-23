@@ -1,11 +1,11 @@
 {
-  "atualizado": "23/08/2026 as 09:21",
+  "atualizado": "23/08/2026 as 12:29",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
       "modelo_olx": "Yamaha DX",
       "marca_olx": "Yamaha",
-      "preco": 6000,
+      "preco": 7000,
       "ano": 2026,
       "km": 18000,
       "municipio": "São Bernardo do Campo",
@@ -16,8 +16,8 @@
       "modelo_monitorado": "Yamaha Factor 150",
       "fipe": 17855.0,
       "modelo_fipe": "YBR 150 FACTOR DX FLEX",
-      "desconto_pct": 66.4,
-      "economia": 11855,
+      "desconto_pct": 60.8,
+      "economia": 10855,
       "confianca_fipe": 0.2
     },
     {
