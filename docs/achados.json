@@ -1,5 +1,5 @@
 {
-  "atualizado": "23/08/2026 as 12:29",
+  "atualizado": "24/08/2026 as 09:29",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -19,25 +19,6 @@
       "desconto_pct": 60.8,
       "economia": 10855,
       "confianca_fipe": 0.2
-    },
-    {
-      "titulo": "Honda elite 125 2026",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 9000,
-      "ano": 2026,
-      "km": 424,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-2026-1524814400",
-      "texto": "Honda elite 125 2026",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 15423.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 41.6,
-      "economia": 6423,
-      "confianca_fipe": 1.1
     },
     {
       "titulo": "Honda Elite 125",
@@ -173,6 +154,25 @@
       "confianca_fipe": 1.1
     },
     {
+      "titulo": "Honda BIZ 125 ES/ 125 ES FLEX",
+      "modelo_olx": "Honda 125 EX/ 125 EX Flex",
+      "marca_olx": "Honda",
+      "preco": 15990,
+      "ano": 2026,
+      "km": 985,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-125-es-125-es-flex-1522597559",
+      "texto": "Honda BIZ 125 ES/ 125 ES FLEX",
+      "modelo_monitorado": "Honda Biz",
+      "fipe": 17634.0,
+      "modelo_fipe": "BIZ 125 EX/ 125 EX FLEX",
+      "desconto_pct": 9.3,
+      "economia": 1644,
+      "confianca_fipe": 1.35
+    },
+    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "Yamaha 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -249,6 +249,25 @@
       "confianca_fipe": 1.27
     },
     {
+      "titulo": "Yamaha xtz Lander 250 flex baixo km ",
+      "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
+      "marca_olx": "Yamaha",
+      "preco": 25000,
+      "ano": 2024,
+      "km": 10668,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-xtz-lander-250-flex-baixo-km-1491143183",
+      "texto": "Yamaha xtz Lander 250 flex baixo km ",
+      "modelo_monitorado": "Yamaha Lander 250",
+      "fipe": 26922.0,
+      "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
+      "desconto_pct": 7.1,
+      "economia": 1922,
+      "confianca_fipe": 1.27
+    },
+    {
       "titulo": "NMAX AUTOMÁTICA ",
       "modelo_olx": "Yamaha 160",
       "marca_olx": "Yamaha",
@@ -266,6 +285,44 @@
       "desconto_pct": 7.0,
       "economia": 1208,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Yamaha Factor 150 ED",
+      "modelo_olx": "Yamaha 150 ED",
+      "marca_olx": "Yamaha",
+      "preco": 13800,
+      "ano": 2022,
+      "km": 22000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-factor-150-ed-1528872865",
+      "texto": "Yamaha Factor 150 ED",
+      "modelo_monitorado": "Yamaha Factor 150",
+      "fipe": 14803.0,
+      "modelo_fipe": "YBR 150 FACTOR ED/FLEX",
+      "desconto_pct": 6.8,
+      "economia": 1003,
+      "confianca_fipe": 1.0
+    },
+    {
+      "titulo": "Honda Pcx 21/22 ABS ",
+      "modelo_olx": "Honda 150/dlx",
+      "marca_olx": "Honda",
+      "preco": 15000,
+      "ano": 2021,
+      "km": 21000,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-21-22-abs-1528817252",
+      "texto": "Honda Pcx 21/22 ABS ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 15992.0,
+      "modelo_fipe": "PCX 150/DLX",
+      "desconto_pct": 6.2,
+      "economia": 992,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
