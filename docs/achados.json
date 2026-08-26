@@ -1,5 +1,5 @@
 {
-  "atualizado": "26/08/2026 as 09:32",
+  "atualizado": "26/08/2026 as 13:24",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -57,6 +57,25 @@
       "desconto_pct": 15.1,
       "economia": 2133,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Vendo cg 160 fan ano 21/22",
+      "modelo_olx": "Honda 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 13500,
+      "ano": 2022,
+      "km": 21800,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-cg-160-fan-ano-21-22-1503029589",
+      "texto": "Vendo cg 160 fan ano 21/22",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 15836.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 14.8,
+      "economia": 2336,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "XRE 300 2012 porém gastei uns 5 mil pra deixar nova motor da 2022 vela já novo com 8mil km",
