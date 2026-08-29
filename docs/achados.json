@@ -1,5 +1,5 @@
 {
-  "atualizado": "28/08/2026 as 18:36",
+  "atualizado": "28/08/2026 as 21:00",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -78,25 +78,6 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "Vendo cg 160 fan ano 21/22",
-      "modelo_olx": "Honda 160 FAN Flex",
-      "marca_olx": "Honda",
-      "preco": 13500,
-      "ano": 2022,
-      "km": 21800,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-cg-160-fan-ano-21-22-1503029589",
-      "texto": "Vendo cg 160 fan ano 21/22",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 15836.0,
-      "modelo_fipe": "CG 160 FAN Flex",
-      "desconto_pct": 14.8,
-      "economia": 2336,
-      "confianca_fipe": 1.35
-    },
-    {
       "titulo": "Honda Elite 125",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -133,25 +114,6 @@
       "desconto_pct": 12.0,
       "economia": 2943,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "Factor 150 ED 2024",
-      "modelo_olx": "Yamaha 150 ED",
-      "marca_olx": "Yamaha",
-      "preco": 14300,
-      "ano": 2024,
-      "km": 20200,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/factor-150-ed-2024-1524976110",
-      "texto": "Factor 150 ED 2024",
-      "modelo_monitorado": "Yamaha Factor 150",
-      "fipe": 16193.0,
-      "modelo_fipe": "YBR 150 FACTOR ED/FLEX",
-      "desconto_pct": 11.7,
-      "economia": 1893,
-      "confianca_fipe": 1.0
     },
     {
       "titulo": "Honda Cg 160 start ",
