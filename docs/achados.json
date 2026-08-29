@@ -1,5 +1,5 @@
 {
-  "atualizado": "28/08/2026 as 21:00",
+  "atualizado": "29/08/2026 as 12:57",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -21,6 +21,25 @@
       "confianca_fipe": 0.2
     },
     {
+      "titulo": "Honda elite 125 ano 2024/25",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 9800,
+      "ano": 2024,
+      "km": 20090,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-ano-2024-25-1530494281",
+      "texto": "Honda elite 125 ano 2024/25",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 14123.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 30.6,
+      "economia": 4323,
+      "confianca_fipe": 1.1
+    },
+    {
       "titulo": "Honda Elite 125",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -38,6 +57,25 @@
       "desconto_pct": 23.6,
       "economia": 3083,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": " CG 160 Titan 2021",
+      "modelo_olx": "Honda 160 Titan Flexone/ed.especial 40 Anos",
+      "marca_olx": "Honda",
+      "preco": 13000,
+      "ano": 2021,
+      "km": 13000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-2021-1530416508",
+      "texto": " CG 160 Titan 2021",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 16483.0,
+      "modelo_fipe": "CG 160 TITAN FLEXONE/Ed.Especial 40 Anos",
+      "desconto_pct": 21.1,
+      "economia": 3483,
+      "confianca_fipe": 1.48
     },
     {
       "titulo": "a CG 160 Fan 2022 ",
@@ -151,25 +189,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 10.5,
       "economia": 1624,
-      "confianca_fipe": 1.1
-    },
-    {
-      "titulo": "Vendo Honda elite 125 2026",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 13999,
-      "ano": 2026,
-      "km": 3550,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-honda-elite-125-2026-1529975750",
-      "texto": "Vendo Honda elite 125 2026",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 15423.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 9.2,
-      "economia": 1424,
       "confianca_fipe": 1.1
     },
     {
