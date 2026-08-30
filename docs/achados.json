@@ -1,5 +1,5 @@
 {
-  "atualizado": "29/08/2026 as 15:18",
+  "atualizado": "30/08/2026 as 12:44",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -116,6 +116,25 @@
       "confianca_fipe": 1.1
     },
     {
+      "titulo": "HONDA CG 160 - ÚNICO DONO",
+      "modelo_olx": "Honda 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 13800,
+      "ano": 2022,
+      "km": 21000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-unico-dono-1530677635",
+      "texto": "HONDA CG 160 - ÚNICO DONO",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 15836.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 12.9,
+      "economia": 2036,
+      "confianca_fipe": 1.35
+    },
+    {
       "titulo": "Honda Elite 125",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -190,6 +209,44 @@
       "desconto_pct": 10.5,
       "economia": 1624,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Honda pcx 160 2024",
+      "modelo_olx": "Honda 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17600,
+      "ano": 2024,
+      "km": 16300,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-1530648893",
+      "texto": "Honda pcx 160 2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19553.0,
+      "modelo_fipe": "PCX 160 DLX",
+      "desconto_pct": 10.0,
+      "economia": 1953,
+      "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "Honda BIZ 125 ES/ 125 ES FLEX",
+      "modelo_olx": "Honda 125 EX/ 125 EX Flex",
+      "marca_olx": "Honda",
+      "preco": 15990,
+      "ano": 2026,
+      "km": 985,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-125-es-125-es-flex-1522597559",
+      "texto": "Honda BIZ 125 ES/ 125 ES FLEX",
+      "modelo_monitorado": "Honda Biz",
+      "fipe": 17634.0,
+      "modelo_fipe": "BIZ 125 EX/ 125 EX FLEX",
+      "desconto_pct": 9.3,
+      "economia": 1644,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
