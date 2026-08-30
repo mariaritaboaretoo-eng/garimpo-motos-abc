@@ -1,5 +1,5 @@
 {
-  "atualizado": "30/08/2026 as 12:44",
+  "atualizado": "30/08/2026 as 15:33",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -95,25 +95,6 @@
       "desconto_pct": 17.9,
       "economia": 2836,
       "confianca_fipe": 1.35
-    },
-    {
-      "titulo": "Honda Elite 125 24/25 ",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 11990,
-      "ano": 2024,
-      "km": 16308,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-24-25-1513537876",
-      "texto": "Honda Elite 125 24/25 ",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14123.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 15.1,
-      "economia": 2133,
-      "confianca_fipe": 1.1
     },
     {
       "titulo": "HONDA CG 160 - ÚNICO DONO",
