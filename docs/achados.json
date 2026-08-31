@@ -1,5 +1,5 @@
 {
-  "atualizado": "30/08/2026 as 15:33",
+  "atualizado": "31/08/2026 as 15:28",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -287,25 +287,6 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
-      "modelo_olx": "Honda 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 19500,
-      "ano": 2025,
-      "km": 16200,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-160-dlx-2025-moto-zerada-abaixo-da-fipe-peq-monta-1523785722",
-      "texto": "PCX 160 DLX 2025 - MOTO ZERADA - ABAIXO DA FIPE - PEQ MONTA ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 20986.0,
-      "modelo_fipe": "PCX 160 DLX",
-      "desconto_pct": 7.1,
-      "economia": 1486,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "Yamaha xtz Lander 250 flex baixo km ",
       "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
       "marca_olx": "Yamaha",
@@ -361,6 +342,25 @@
       "desconto_pct": 5.8,
       "economia": 1165,
       "confianca_fipe": 1.4
+    },
+    {
+      "titulo": "Honda bros 160 abs 2026",
+      "modelo_olx": "Honda 160 Bros Flex",
+      "marca_olx": "Honda",
+      "preco": 22850,
+      "ano": 2026,
+      "km": 20500,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-bros-160-abs-2026-1515542406",
+      "texto": "Honda bros 160 abs 2026",
+      "modelo_monitorado": "Honda NXR Bros",
+      "fipe": 24188.0,
+      "modelo_fipe": "NXR 160 BROS FLEX",
+      "desconto_pct": 5.5,
+      "economia": 1338,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
