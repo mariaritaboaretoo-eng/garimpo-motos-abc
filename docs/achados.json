@@ -1,5 +1,5 @@
 {
-  "atualizado": "01/09/2026 as 12:47",
+  "atualizado": "01/09/2026 as 15:19",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -57,25 +57,6 @@
       "desconto_pct": 24.9,
       "economia": 3307,
       "confianca_fipe": 1.1
-    },
-    {
-      "titulo": " CG 160 Titan 2021",
-      "modelo_olx": "Honda 160 Titan Flexone/ed.especial 40 Anos",
-      "marca_olx": "Honda",
-      "preco": 13000,
-      "ano": 2021,
-      "km": 13000,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-2021-1530416508",
-      "texto": " CG 160 Titan 2021",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 16431.0,
-      "modelo_fipe": "CG 160 TITAN FLEXONE/Ed.Especial 40 Anos",
-      "desconto_pct": 20.9,
-      "economia": 3431,
-      "confianca_fipe": 1.48
     },
     {
       "titulo": "HONDA CG 160 - ÚNICO DONO",
