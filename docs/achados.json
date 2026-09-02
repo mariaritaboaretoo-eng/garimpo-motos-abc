@@ -1,5 +1,5 @@
 {
-  "atualizado": "02/09/2026 as 12:39",
+  "atualizado": "02/09/2026 as 15:32",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -57,6 +57,25 @@
       "desconto_pct": 19.1,
       "economia": 2912,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Vendo essa fazer 250 2025",
+      "modelo_olx": "Yamaha 250 Fazer Connected",
+      "marca_olx": "Yamaha",
+      "preco": 21000,
+      "ano": 2025,
+      "km": 11000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-essa-fazer-250-2025-1531865644",
+      "texto": "Vendo essa fazer 250 2025",
+      "modelo_monitorado": "Yamaha Fazer 250",
+      "fipe": 23677.0,
+      "modelo_fipe": "FZ25 250 FAZER CONNECTED",
+      "desconto_pct": 11.3,
+      "economia": 2677,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "Factor 150",
@@ -211,25 +230,6 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "Nmax 160 connected SE",
-      "modelo_olx": "Yamaha Connected SE 160 ABS",
-      "marca_olx": "Yamaha",
-      "preco": 17500,
-      "ano": 2023,
-      "km": 22000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nmax-160-connected-se-1526402529",
-      "texto": "Nmax 160 connected SE",
-      "modelo_monitorado": "Yamaha NMAX 160",
-      "fipe": 18619.0,
-      "modelo_fipe": "NMAX Connected SE 160 ABS",
-      "desconto_pct": 6.0,
-      "economia": 1119,
-      "confianca_fipe": 1.4
-    },
-    {
       "titulo": "Honda bros 160 abs 2026",
       "modelo_olx": "Honda 160 Bros Flex",
       "marca_olx": "Honda",
@@ -266,6 +266,25 @@
       "desconto_pct": 5.4,
       "economia": 1415,
       "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
+      "modelo_olx": "Honda 160 Bros Esdd Flexone",
+      "marca_olx": "Honda",
+      "preco": 18990,
+      "ano": 2023,
+      "km": 25000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nxr-160-bros-160-esdd-preta-2022-2023-1509222209",
+      "texto": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
+      "modelo_monitorado": "Honda NXR Bros",
+      "fipe": 20039.0,
+      "modelo_fipe": "NXR 160 BROS ESDD FLEXONE",
+      "desconto_pct": 5.2,
+      "economia": 1049,
+      "confianca_fipe": 1.4
     }
   ]
 }
