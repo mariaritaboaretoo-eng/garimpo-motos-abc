@@ -1,5 +1,5 @@
 {
-  "atualizado": "03/09/2026 as 12:30",
+  "atualizado": "03/09/2026 as 15:28",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -133,25 +133,6 @@
       "desconto_pct": 9.9,
       "economia": 2375,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "Honda BIZ 125 ES/ 125 ES FLEX",
-      "modelo_olx": "Honda 125 EX/ 125 EX Flex",
-      "marca_olx": "Honda",
-      "preco": 15990,
-      "ano": 2026,
-      "km": 985,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-125-es-125-es-flex-1522597559",
-      "texto": "Honda BIZ 125 ES/ 125 ES FLEX",
-      "modelo_monitorado": "Honda Biz",
-      "fipe": 17649.0,
-      "modelo_fipe": "BIZ 125 EX/ 125 EX FLEX",
-      "desconto_pct": 9.4,
-      "economia": 1659,
-      "confianca_fipe": 1.35
     },
     {
       "titulo": "Honda Elite 125 (Financio e Parcelo no Cartão de Crédito)",
@@ -304,25 +285,6 @@
       "desconto_pct": 5.4,
       "economia": 1415,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
-      "modelo_olx": "Honda 160 Bros Esdd Flexone",
-      "marca_olx": "Honda",
-      "preco": 18990,
-      "ano": 2023,
-      "km": 25000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nxr-160-bros-160-esdd-preta-2022-2023-1509222209",
-      "texto": "NXR 160 BROS 160/  ESDD PRETA 2022/2023",
-      "modelo_monitorado": "Honda NXR Bros",
-      "fipe": 20039.0,
-      "modelo_fipe": "NXR 160 BROS ESDD FLEXONE",
-      "desconto_pct": 5.2,
-      "economia": 1049,
-      "confianca_fipe": 1.4
     }
   ]
 }
