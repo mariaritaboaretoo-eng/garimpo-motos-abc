@@ -1,5 +1,5 @@
 {
-  "atualizado": "03/09/2026 as 15:28",
+  "atualizado": "04/09/2026 as 12:28",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -19,25 +19,6 @@
       "desconto_pct": 61.8,
       "economia": 11330,
       "confianca_fipe": 0.2
-    },
-    {
-      "titulo": "Honda Elite 125",
-      "modelo_olx": "Honda 125",
-      "marca_olx": "Honda",
-      "preco": 10000,
-      "ano": 2022,
-      "km": 25400,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1528346578",
-      "texto": "Honda Elite 125",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 13307.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 24.9,
-      "economia": 3307,
-      "confianca_fipe": 1.1
     },
     {
       "titulo": "Honda Elite 125 ",
@@ -95,6 +76,25 @@
       "desconto_pct": 10.8,
       "economia": 1831,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Honda Cg 160 start ",
+      "modelo_olx": "Honda 160 Start",
+      "marca_olx": "Honda",
+      "preco": 14600,
+      "ano": 2024,
+      "km": 21500,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-start-1529394943",
+      "texto": "Honda Cg 160 start ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 16330.0,
+      "modelo_fipe": "CG 160 START",
+      "desconto_pct": 10.6,
+      "economia": 1730,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "Estou vendendo elite 125 cc muito Nova 1.300 Km rotador ",
