@@ -1,5 +1,5 @@
 {
-  "atualizado": "05/09/2026 as 14:16",
+  "atualizado": "06/09/2026 as 11:39",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -133,6 +133,25 @@
       "desconto_pct": 9.2,
       "economia": 1312,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
+      "modelo_olx": "Honda 160 Titan",
+      "marca_olx": "Honda",
+      "preco": 20000,
+      "ano": 2026,
+      "km": 314,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-cargo-2026-apenas-314-km-quitada-e-pronta-para-rodar-1531940012",
+      "texto": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21845.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 8.4,
+      "economia": 1845,
+      "confianca_fipe": 1.27
     },
     {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
