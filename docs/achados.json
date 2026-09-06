@@ -1,5 +1,5 @@
 {
-  "atualizado": "06/09/2026 as 11:39",
+  "atualizado": "06/09/2026 as 14:36",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -152,6 +152,25 @@
       "desconto_pct": 8.4,
       "economia": 1845,
       "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "Biz 125 ks 2011 ",
+      "modelo_olx": "Honda 125 KS/ KS F.inj./ks MIX F.injection",
+      "marca_olx": "Honda",
+      "preco": 9000,
+      "ano": 2011,
+      "km": 20000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/biz-125-ks-2011-1533016584",
+      "texto": "Biz 125 ks 2011 ",
+      "modelo_monitorado": "Honda Biz",
+      "fipe": 9706.0,
+      "modelo_fipe": "BIZ 125 KS/ 125 KS FLEX",
+      "desconto_pct": 7.3,
+      "economia": 706,
+      "confianca_fipe": 1.1
     },
     {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
