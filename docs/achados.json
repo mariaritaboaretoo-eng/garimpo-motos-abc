@@ -1,5 +1,5 @@
 {
-  "atualizado": "06/09/2026 as 14:36",
+  "atualizado": "07/09/2026 as 13:53",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -59,6 +59,25 @@
       "confianca_fipe": 0.2
     },
     {
+      "titulo": "Honda Cg 160 start ",
+      "modelo_olx": "Honda 160 Start",
+      "marca_olx": "Honda",
+      "preco": 14600,
+      "ano": 2024,
+      "km": 21500,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-start-1529394943",
+      "texto": "Honda Cg 160 start ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 16330.0,
+      "modelo_fipe": "CG 160 START",
+      "desconto_pct": 10.6,
+      "economia": 1730,
+      "confianca_fipe": 1.27
+    },
+    {
       "titulo": "Estou vendendo elite 125 cc muito Nova 1.300 Km rotador ",
       "modelo_olx": "Honda 125",
       "marca_olx": "Honda",
@@ -95,25 +114,6 @@
       "desconto_pct": 9.9,
       "economia": 2375,
       "confianca_fipe": 1.27
-    },
-    {
-      "titulo": "Honda BIZ 125 ES/ 125 ES FLEX",
-      "modelo_olx": "Honda 125 EX/ 125 EX Flex",
-      "marca_olx": "Honda",
-      "preco": 15990,
-      "ano": 2026,
-      "km": 985,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-125-es-125-es-flex-1522597559",
-      "texto": "Honda BIZ 125 ES/ 125 ES FLEX",
-      "modelo_monitorado": "Honda Biz",
-      "fipe": 17649.0,
-      "modelo_fipe": "BIZ 125 EX/ 125 EX FLEX",
-      "desconto_pct": 9.4,
-      "economia": 1659,
-      "confianca_fipe": 1.35
     },
     {
       "titulo": "Honda Elite 125 (Financio e Parcelo no Cartão de Crédito)",
