@@ -1,5 +1,5 @@
 {
-  "atualizado": "08/09/2026 as 12:41",
+  "atualizado": "08/09/2026 as 15:28",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -76,6 +76,25 @@
       "desconto_pct": 10.6,
       "economia": 1730,
       "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "Honda CG 160 FAN",
+      "modelo_olx": "Honda 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 14990,
+      "ano": 2023,
+      "km": 8175,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-1533553517",
+      "texto": "Honda CG 160 FAN",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 16704.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 10.3,
+      "economia": 1714,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "Estou vendendo elite 125 cc muito Nova 1.300 Km rotador ",
@@ -228,25 +247,6 @@
       "desconto_pct": 6.7,
       "economia": 2020,
       "confianca_fipe": 1.35
-    },
-    {
-      "titulo": "CG 160 FAN 2026 0KM ",
-      "modelo_olx": "Honda 160 Titan",
-      "marca_olx": "Honda",
-      "preco": 20490,
-      "ano": 2026,
-      "km": 0,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-fan-2026-0km-1478825557",
-      "texto": "CG 160 FAN 2026 0KM ",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 21845.0,
-      "modelo_fipe": "CG 160 TITAN",
-      "desconto_pct": 6.2,
-      "economia": 1355,
-      "confianca_fipe": 1.27
     },
     {
       "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
