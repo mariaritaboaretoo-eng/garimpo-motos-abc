@@ -1,5 +1,5 @@
 {
-  "atualizado": "09/09/2026 as 15:28",
+  "atualizado": "10/09/2026 as 12:31",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -37,6 +37,44 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 19.1,
       "economia": 2912,
+      "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "XTZ Lander 250",
+      "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
+      "marca_olx": "Yamaha",
+      "preco": 19900,
+      "ano": 2023,
+      "km": 25000,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/xtz-lander-250-1534026772",
+      "texto": "XTZ Lander 250",
+      "modelo_monitorado": "Yamaha Lander 250",
+      "fipe": 23875.0,
+      "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
+      "desconto_pct": 16.6,
+      "economia": 3975,
+      "confianca_fipe": 1.27
+    },
+    {
+      "titulo": "Honda Elite 125 Baixo Km",
+      "modelo_olx": "Honda 125",
+      "marca_olx": "Honda",
+      "preco": 12000,
+      "ano": 2023,
+      "km": 18200,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-baixo-km-1534178816",
+      "texto": "Honda Elite 125 Baixo Km",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 13816.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 13.1,
+      "economia": 1816,
       "confianca_fipe": 1.1
     },
     {
@@ -133,25 +171,6 @@
       "desconto_pct": 7.2,
       "economia": 1483,
       "confianca_fipe": 1.4
-    },
-    {
-      "titulo": "Yamaha Fazer 250 ",
-      "modelo_olx": "Yamaha 250 Fazer/ Fazer L. Edition /blueflex",
-      "marca_olx": "Yamaha",
-      "preco": 12500,
-      "ano": 2014,
-      "km": 170,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-fazer-250-1533659263",
-      "texto": "Yamaha Fazer 250 ",
-      "modelo_monitorado": "Yamaha Fazer 250",
-      "fipe": 13435.0,
-      "modelo_fipe": "YS 250 FAZER/ FAZER L. EDITION /BLUEFLEX",
-      "desconto_pct": 7.0,
-      "economia": 935,
-      "confianca_fipe": 1.43
     },
     {
       "titulo": "XRE 300 Novíssima  + manual e chave reserva ",
