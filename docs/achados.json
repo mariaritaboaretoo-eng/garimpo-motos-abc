@@ -1,5 +1,5 @@
 {
-  "atualizado": "10/09/2026 as 12:31",
+  "atualizado": "10/09/2026 as 15:17",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -116,25 +116,6 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "Yamaha Lander 250 com 7.000km",
-      "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
-      "marca_olx": "Yamaha",
-      "preco": 21500,
-      "ano": 2023,
-      "km": 7000,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-lander-250-com-7-000km-1497100895",
-      "texto": "Yamaha Lander 250 com 7.000km",
-      "modelo_monitorado": "Yamaha Lander 250",
-      "fipe": 23875.0,
-      "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
-      "desconto_pct": 9.9,
-      "economia": 2375,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
       "modelo_olx": "Honda 160 Titan",
       "marca_olx": "Honda",
@@ -209,6 +190,25 @@
       "desconto_pct": 6.0,
       "economia": 920,
       "confianca_fipe": 1.1
+    },
+    {
+      "titulo": "HONDA CG 160 FAN",
+      "modelo_olx": "Honda 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 14990,
+      "ano": 2022,
+      "km": 25961,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-1534252117",
+      "texto": "HONDA CG 160 FAN",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 15925.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 5.9,
+      "economia": 935,
+      "confianca_fipe": 1.35
     },
     {
       "titulo": "Yamaha xtz Lander 250 flex baixo km ",
