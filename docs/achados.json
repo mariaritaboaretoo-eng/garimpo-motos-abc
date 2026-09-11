@@ -1,5 +1,5 @@
 {
-  "atualizado": "10/09/2026 as 15:17",
+  "atualizado": "11/09/2026 as 12:33",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
@@ -116,25 +116,6 @@
       "confianca_fipe": 1.1
     },
     {
-      "titulo": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
-      "modelo_olx": "Honda 160 Titan",
-      "marca_olx": "Honda",
-      "preco": 20000,
-      "ano": 2026,
-      "km": 314,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-cargo-2026-apenas-314-km-quitada-e-pronta-para-rodar-1531940012",
-      "texto": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 21845.0,
-      "modelo_fipe": "CG 160 TITAN",
-      "desconto_pct": 8.4,
-      "economia": 1845,
-      "confianca_fipe": 1.27
-    },
-    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "Yamaha 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -154,23 +135,23 @@
       "confianca_fipe": 1.4
     },
     {
-      "titulo": "XRE 300 Novíssima  + manual e chave reserva ",
-      "modelo_olx": "Honda 300/ 300 Abs/ Flex",
+      "titulo": "Honda PCX 160 2024, 20.000 KM",
+      "modelo_olx": "Honda 160",
       "marca_olx": "Honda",
-      "preco": 28199,
-      "ano": 2023,
-      "km": 21000,
-      "municipio": "Santo André",
+      "preco": 17900,
+      "ano": 2024,
+      "km": 20000,
+      "municipio": "Mauá",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/xre-300-novissima-manual-e-chave-reserva-1531197837",
-      "texto": "XRE 300 Novíssima  + manual e chave reserva ",
-      "modelo_monitorado": "Honda XRE 300",
-      "fipe": 30219.0,
-      "modelo_fipe": "XRE 300/ 300 ABS/ FLEX",
-      "desconto_pct": 6.7,
-      "economia": 2020,
-      "confianca_fipe": 1.35
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-20-000-km-1532682227",
+      "texto": "Honda PCX 160 2024, 20.000 KM",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19224.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 6.9,
+      "economia": 1324,
+      "confianca_fipe": 1.1
     },
     {
       "titulo": "ELITE 125 2026 ( TRANSF GRÁTIS )",
