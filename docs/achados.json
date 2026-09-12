@@ -1,9 +1,9 @@
 {
-  "atualizado": "11/09/2026 as 15:21",
+  "atualizado": "12/09/2026 as 11:39",
   "achados": [
     {
       "titulo": "Factor 150 cc 2025",
-      "modelo_olx": "Yamaha DX",
+      "modelo_olx": "Factor DX",
       "marca_olx": "Yamaha",
       "preco": 7000,
       "ano": 2026,
@@ -18,11 +18,11 @@
       "modelo_fipe": "YBR 150 FACTOR DX FLEX",
       "desconto_pct": 61.8,
       "economia": 11330,
-      "confianca_fipe": 0.2
+      "confianca_fipe": 0.4
     },
     {
       "titulo": "Honda Elite 125 ",
-      "modelo_olx": "Honda 125",
+      "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
       "preco": 12298,
       "ano": 2026,
@@ -37,11 +37,11 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 19.1,
       "economia": 2912,
-      "confianca_fipe": 1.1
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "XTZ Lander 250",
-      "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
+      "modelo_olx": "XTZ 250 Lander 249cc/lander Blueflex",
       "marca_olx": "Yamaha",
       "preco": 19900,
       "ano": 2023,
@@ -56,11 +56,11 @@
       "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
       "desconto_pct": 16.6,
       "economia": 3975,
-      "confianca_fipe": 1.27
+      "confianca_fipe": 1.43
     },
     {
       "titulo": "Honda Elite 125 Baixo Km",
-      "modelo_olx": "Honda 125",
+      "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
       "preco": 12000,
       "ano": 2023,
@@ -75,11 +75,30 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 13.1,
       "economia": 1816,
-      "confianca_fipe": 1.1
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Honda PCX 160 2025/2026",
+      "modelo_olx": "PCX 160",
+      "marca_olx": "Honda",
+      "preco": 18890,
+      "ano": 2026,
+      "km": 3700,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2025-2026-1534613915",
+      "texto": "Honda PCX 160 2025/2026",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 21291.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 11.3,
+      "economia": 2401,
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "Factor 150",
-      "modelo_olx": "Yamaha DX",
+      "modelo_olx": "Factor DX",
       "marca_olx": "Yamaha",
       "preco": 15600,
       "ano": 2025,
@@ -94,11 +113,11 @@
       "modelo_fipe": "YBR 150 FACTOR DX FLEX",
       "desconto_pct": 11.0,
       "economia": 1921,
-      "confianca_fipe": 0.2
+      "confianca_fipe": 0.4
     },
     {
       "titulo": "Estou vendendo elite 125 cc muito Nova 1.300 Km rotador ",
-      "modelo_olx": "Honda 125",
+      "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
       "preco": 13699,
       "ano": 2026,
@@ -113,11 +132,30 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 9.9,
       "economia": 1511,
-      "confianca_fipe": 1.1
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
+      "modelo_olx": "CG 160 Titan",
+      "marca_olx": "Honda",
+      "preco": 20000,
+      "ano": 2026,
+      "km": 314,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-cargo-2026-apenas-314-km-quitada-e-pronta-para-rodar-1531940012",
+      "texto": "Honda CG 160 Cargo 2026 - Apenas 314 km | Quitada e Pronta para Rodar!",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21845.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 8.4,
+      "economia": 1845,
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
-      "modelo_olx": "Yamaha 150 Crosser Z Flex",
+      "modelo_olx": "XTZ 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
       "preco": 19200,
       "ano": 2025,
@@ -132,11 +170,11 @@
       "modelo_fipe": "XTZ 150 CROSSER Z FLEX",
       "desconto_pct": 7.2,
       "economia": 1483,
-      "confianca_fipe": 1.4
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "Honda PCX 160 2024, 20.000 KM",
-      "modelo_olx": "Honda 160",
+      "modelo_olx": "PCX 160",
       "marca_olx": "Honda",
       "preco": 17900,
       "ano": 2024,
@@ -151,11 +189,11 @@
       "modelo_fipe": "PCX 160 ",
       "desconto_pct": 6.9,
       "economia": 1324,
-      "confianca_fipe": 1.1
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "ELITE 125 2026 ( TRANSF GRÁTIS )",
-      "modelo_olx": "Honda 125",
+      "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
       "preco": 14290,
       "ano": 2026,
@@ -170,11 +208,11 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 6.0,
       "economia": 920,
-      "confianca_fipe": 1.1
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "HONDA CG 160 FAN",
-      "modelo_olx": "Honda 160 FAN Flex",
+      "modelo_olx": "CG 160 FAN Flex",
       "marca_olx": "Honda",
       "preco": 14990,
       "ano": 2022,
@@ -189,11 +227,11 @@
       "modelo_fipe": "CG 160 FAN Flex",
       "desconto_pct": 5.9,
       "economia": 935,
-      "confianca_fipe": 1.35
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "Yamaha xtz Lander 250 flex baixo km ",
-      "modelo_olx": "Yamaha 250 Lander 249cc/lander Blueflex",
+      "modelo_olx": "XTZ 250 Lander 249cc/lander Blueflex",
       "marca_olx": "Yamaha",
       "preco": 25000,
       "ano": 2024,
@@ -208,7 +246,7 @@
       "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
       "desconto_pct": 5.4,
       "economia": 1415,
-      "confianca_fipe": 1.27
+      "confianca_fipe": 1.43
     }
   ]
 }
