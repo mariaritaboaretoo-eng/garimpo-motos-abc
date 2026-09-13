@@ -1,25 +1,6 @@
 {
-  "atualizado": "12/09/2026 as 14:44",
+  "atualizado": "13/09/2026 as 12:19",
   "achados": [
-    {
-      "titulo": "Factor 150 cc 2025",
-      "modelo_olx": "Factor DX",
-      "marca_olx": "Yamaha",
-      "preco": 7000,
-      "ano": 2026,
-      "km": 18000,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/factor-150-cc-2025-1524214075",
-      "texto": "Factor 150 cc 2025",
-      "modelo_monitorado": "Yamaha Factor 150",
-      "fipe": 18330.0,
-      "modelo_fipe": "YBR 150 FACTOR DX FLEX",
-      "desconto_pct": 61.8,
-      "economia": 11330,
-      "confianca_fipe": 0.4
-    },
     {
       "titulo": "Honda Elite 125 ",
       "modelo_olx": "Elite 125",
@@ -78,25 +59,6 @@
       "confianca_fipe": 1.6
     },
     {
-      "titulo": "Honda PCX 160 2025/2026",
-      "modelo_olx": "PCX 160",
-      "marca_olx": "Honda",
-      "preco": 18890,
-      "ano": 2026,
-      "km": 3700,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2025-2026-1534613915",
-      "texto": "Honda PCX 160 2025/2026",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 21291.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 11.3,
-      "economia": 2401,
-      "confianca_fipe": 1.6
-    },
-    {
       "titulo": "Factor 150",
       "modelo_olx": "Factor DX",
       "marca_olx": "Yamaha",
@@ -132,6 +94,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 9.9,
       "economia": 1511,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "HONDA PCX 160  CBS ",
+      "modelo_olx": "PCX 160",
+      "marca_olx": "Honda",
+      "preco": 17400,
+      "ano": 2024,
+      "km": 28000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-cbs-1534950921",
+      "texto": "HONDA PCX 160  CBS ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19224.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 9.5,
+      "economia": 1824,
       "confianca_fipe": 1.6
     },
     {
