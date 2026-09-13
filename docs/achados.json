@@ -1,5 +1,5 @@
 {
-  "atualizado": "13/09/2026 as 12:19",
+  "atualizado": "13/09/2026 as 15:03",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -151,25 +151,6 @@
       "modelo_fipe": "XTZ 150 CROSSER Z FLEX",
       "desconto_pct": 7.2,
       "economia": 1483,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Honda PCX 160 2024, 20.000 KM",
-      "modelo_olx": "PCX 160",
-      "marca_olx": "Honda",
-      "preco": 17900,
-      "ano": 2024,
-      "km": 20000,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-20-000-km-1532682227",
-      "texto": "Honda PCX 160 2024, 20.000 KM",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19224.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 6.9,
-      "economia": 1324,
       "confianca_fipe": 1.6
     },
     {
