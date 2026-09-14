@@ -1,5 +1,5 @@
 {
-  "atualizado": "13/09/2026 as 15:03",
+  "atualizado": "14/09/2026 as 14:16",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -76,6 +76,25 @@
       "desconto_pct": 11.0,
       "economia": 1921,
       "confianca_fipe": 0.4
+    },
+    {
+      "titulo": "Honda PCX 160 2024, 20.000 KM",
+      "modelo_olx": "PCX 160",
+      "marca_olx": "Honda",
+      "preco": 17300,
+      "ano": 2024,
+      "km": 20000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-20-000-km-1532682227",
+      "texto": "Honda PCX 160 2024, 20.000 KM",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19224.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 10.0,
+      "economia": 1924,
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "Estou vendendo elite 125 cc muito Nova 1.300 Km rotador ",
@@ -170,25 +189,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 6.0,
       "economia": 920,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "HONDA CG 160 FAN",
-      "modelo_olx": "CG 160 FAN Flex",
-      "marca_olx": "Honda",
-      "preco": 14990,
-      "ano": 2022,
-      "km": 25961,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-1534252117",
-      "texto": "HONDA CG 160 FAN",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 15925.0,
-      "modelo_fipe": "CG 160 FAN Flex",
-      "desconto_pct": 5.9,
-      "economia": 935,
       "confianca_fipe": 1.6
     },
     {
