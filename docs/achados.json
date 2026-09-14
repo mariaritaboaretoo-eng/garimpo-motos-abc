@@ -1,5 +1,5 @@
 {
-  "atualizado": "14/09/2026 as 14:16",
+  "atualizado": "14/09/2026 as 16:48",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -151,6 +151,25 @@
       "modelo_fipe": "CG 160 TITAN",
       "desconto_pct": 8.4,
       "economia": 1845,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Pcx sport 2020 ABS",
+      "modelo_olx": "PCX 150 Sport",
+      "marca_olx": "Honda",
+      "preco": 14250,
+      "ano": 2020,
+      "km": 18000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-sport-2020-abs-1534956332",
+      "texto": "Pcx sport 2020 ABS",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 15548.0,
+      "modelo_fipe": "PCX 150 SPORT",
+      "desconto_pct": 8.3,
+      "economia": 1298,
       "confianca_fipe": 1.6
     },
     {
