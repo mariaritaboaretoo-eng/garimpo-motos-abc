@@ -1,5 +1,5 @@
 {
-  "atualizado": "16/09/2026 as 12:47",
+  "atualizado": "16/09/2026 as 15:48",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -151,6 +151,25 @@
       "modelo_fipe": "PCX 150 SPORT",
       "desconto_pct": 5.3,
       "economia": 893,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "HONDA PCX 160 23",
+      "modelo_olx": "PCX 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17500,
+      "ano": 2023,
+      "km": 22500,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-23-1536108587",
+      "texto": "HONDA PCX 160 23",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 18447.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 5.1,
+      "economia": 947,
       "confianca_fipe": 1.6
     }
   ]
