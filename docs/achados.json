@@ -1,11 +1,11 @@
 {
-  "atualizado": "16/09/2026 as 15:48",
+  "atualizado": "17/09/2026 as 12:54",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
       "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
-      "preco": 12298,
+      "preco": 12250,
       "ano": 2026,
       "km": 24000,
       "municipio": "Santo André",
@@ -16,8 +16,8 @@
       "modelo_monitorado": "Honda Elite 125",
       "fipe": 15210.0,
       "modelo_fipe": "ELITE 125",
-      "desconto_pct": 19.1,
-      "economia": 2912,
+      "desconto_pct": 19.5,
+      "economia": 2960,
       "confianca_fipe": 1.6
     },
     {
@@ -78,6 +78,25 @@
       "confianca_fipe": 0.4
     },
     {
+      "titulo": "Honda PCX 160 2024, 20.000 KM",
+      "modelo_olx": "PCX 160",
+      "marca_olx": "Honda",
+      "preco": 17300,
+      "ano": 2024,
+      "km": 20000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-2024-20-000-km-1532682227",
+      "texto": "Honda PCX 160 2024, 20.000 KM",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19224.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 10.0,
+      "economia": 1924,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "XTZ 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -94,6 +113,25 @@
       "modelo_fipe": "XTZ 150 CROSSER Z FLEX",
       "desconto_pct": 7.2,
       "economia": 1483,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Cg 160 titan único dono ",
+      "modelo_olx": "CG 160 Titan Flexone/ed.especial 40 Anos",
+      "marca_olx": "Honda",
+      "preco": 20500,
+      "ano": 2025,
+      "km": 14510,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-unico-dono-1536177444",
+      "texto": "Cg 160 titan único dono ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21845.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 6.2,
+      "economia": 1345,
       "confianca_fipe": 1.6
     },
     {
@@ -116,6 +154,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "elite 125 2021",
+      "modelo_olx": "Elite 125",
+      "marca_olx": "Honda",
+      "preco": 11900,
+      "ano": 2021,
+      "km": 22000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/elite-125-2021-1536146447",
+      "texto": "elite 125 2021",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 12579.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 5.4,
+      "economia": 679,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "Yamaha xtz Lander 250 flex baixo km ",
       "modelo_olx": "XTZ 250 Lander 249cc/lander Blueflex",
       "marca_olx": "Yamaha",
@@ -133,25 +190,6 @@
       "desconto_pct": 5.4,
       "economia": 1415,
       "confianca_fipe": 1.43
-    },
-    {
-      "titulo": "PCX 150 2022 Azul impecável ",
-      "modelo_olx": "PCX 150 Sport",
-      "marca_olx": "Honda",
-      "preco": 15900,
-      "ano": 2022,
-      "km": 11700,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-150-2022-azul-impecavel-1535595411",
-      "texto": "PCX 150 2022 Azul impecável ",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 16793.0,
-      "modelo_fipe": "PCX 150 SPORT",
-      "desconto_pct": 5.3,
-      "economia": 893,
-      "confianca_fipe": 1.6
     },
     {
       "titulo": "HONDA PCX 160 23",
