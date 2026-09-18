@@ -1,5 +1,5 @@
 {
-  "atualizado": "17/09/2026 as 15:55",
+  "atualizado": "18/09/2026 as 12:28",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -151,25 +151,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 6.0,
       "economia": 920,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "elite 125 2021",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 11900,
-      "ano": 2021,
-      "km": 22000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/elite-125-2021-1536146447",
-      "texto": "elite 125 2021",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 12579.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 5.4,
-      "economia": 679,
       "confianca_fipe": 1.6
     },
     {
