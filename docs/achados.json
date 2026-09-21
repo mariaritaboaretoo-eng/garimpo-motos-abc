@@ -1,5 +1,5 @@
 {
-  "atualizado": "21/09/2026 as 14:27",
+  "atualizado": "21/09/2026 as 16:56",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -95,6 +95,25 @@
       "desconto_pct": 11.0,
       "economia": 1921,
       "confianca_fipe": 0.4
+    },
+    {
+      "titulo": "Honda XRE 300 ABS ",
+      "modelo_olx": "XRE 300/ 300 Abs/ Flex",
+      "marca_olx": "Honda",
+      "preco": 27500,
+      "ano": 2023,
+      "km": 27000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-xre-300-abs-1537596516",
+      "texto": "Honda XRE 300 ABS ",
+      "modelo_monitorado": "Honda XRE 300",
+      "fipe": 30219.0,
+      "modelo_fipe": "XRE 300/ 300 ABS/ FLEX",
+      "desconto_pct": 9.0,
+      "economia": 2719,
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
