@@ -1,5 +1,5 @@
 {
-  "atualizado": "20/09/2026 as 15:10",
+  "atualizado": "21/09/2026 as 14:27",
   "achados": [
     {
       "titulo": "Honda Elite 125 ",
@@ -40,25 +40,6 @@
       "confianca_fipe": 1.43
     },
     {
-      "titulo": "Honda Elite 125 Baixo Km",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 12000,
-      "ano": 2023,
-      "km": 18200,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-baixo-km-1534178816",
-      "texto": "Honda Elite 125 Baixo Km",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 13816.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 13.1,
-      "economia": 1816,
-      "confianca_fipe": 1.6
-    },
-    {
       "titulo": "Cg 160 17km",
       "modelo_olx": "CG 160 Start",
       "marca_olx": "Honda",
@@ -75,6 +56,25 @@
       "modelo_fipe": "CG 160 START",
       "desconto_pct": 12.0,
       "economia": 1707,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "HONDA CG 160 START",
+      "modelo_olx": "CG 160 Start",
+      "marca_olx": "Honda",
+      "preco": 13000,
+      "ano": 2022,
+      "km": 24393,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-start-1537303484",
+      "texto": "HONDA CG 160 START",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 14641.0,
+      "modelo_fipe": "CG 160 START",
+      "desconto_pct": 11.2,
+      "economia": 1641,
       "confianca_fipe": 1.6
     },
     {
