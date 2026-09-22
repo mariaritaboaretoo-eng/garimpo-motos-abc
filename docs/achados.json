@@ -1,5 +1,5 @@
 {
-  "atualizado": "22/09/2026 as 12:58",
+  "atualizado": "22/09/2026 as 15:42",
   "achados": [
     {
       "titulo": "Honda pcx dlx abs 2021 ",
@@ -18,6 +18,25 @@
       "modelo_fipe": "PCX 150/DLX",
       "desconto_pct": 38.3,
       "economia": 6102,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Honda Cg 160 Fan",
+      "modelo_olx": "CG 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 12000,
+      "ano": 2021,
+      "km": 16998,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-1537859015",
+      "texto": "Honda Cg 160 Fan",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 15085.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 20.5,
+      "economia": 3085,
       "confianca_fipe": 1.6
     },
     {
