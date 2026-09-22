@@ -1,6 +1,25 @@
 {
-  "atualizado": "21/09/2026 as 16:56",
+  "atualizado": "22/09/2026 as 12:58",
   "achados": [
+    {
+      "titulo": "Honda pcx dlx abs 2021 ",
+      "modelo_olx": "PCX 150/dlx",
+      "marca_olx": "Honda",
+      "preco": 9810,
+      "ano": 2021,
+      "km": 12293,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-dlx-abs-2021-1537605894",
+      "texto": "Honda pcx dlx abs 2021 ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 15912.0,
+      "modelo_fipe": "PCX 150/DLX",
+      "desconto_pct": 38.3,
+      "economia": 6102,
+      "confianca_fipe": 1.6
+    },
     {
       "titulo": "Honda Elite 125 ",
       "modelo_olx": "Elite 125",
@@ -132,6 +151,25 @@
       "modelo_fipe": "XTZ 150 CROSSER Z FLEX",
       "desconto_pct": 7.2,
       "economia": 1483,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "CG 160 FAN 2026 0KM ",
+      "modelo_olx": "CG 160 Titan",
+      "marca_olx": "Honda",
+      "preco": 20490,
+      "ano": 2026,
+      "km": 0,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-fan-2026-0km-1478825557",
+      "texto": "CG 160 FAN 2026 0KM ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21845.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 6.2,
+      "economia": 1355,
       "confianca_fipe": 1.6
     },
     {
