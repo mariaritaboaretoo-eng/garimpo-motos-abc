@@ -1,5 +1,5 @@
 {
-  "atualizado": "27/09/2026 as 15:58",
+  "atualizado": "28/09/2026 as 15:58",
   "achados": [
     {
       "titulo": "XTZ Lander 250",
@@ -189,6 +189,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 6.0,
       "economia": 920,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Honda cg 160 ",
+      "modelo_olx": "CG 160 Start",
+      "marca_olx": "Honda",
+      "preco": 17500,
+      "ano": 2026,
+      "km": 2000,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-1539402822",
+      "texto": "Honda cg 160 ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 18598.0,
+      "modelo_fipe": "CG 160 START",
+      "desconto_pct": 5.9,
+      "economia": 1098,
       "confianca_fipe": 1.6
     },
     {
