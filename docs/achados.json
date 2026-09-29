@@ -1,5 +1,5 @@
 {
-  "atualizado": "28/09/2026 as 18:11",
+  "atualizado": "29/09/2026 as 14:17",
   "achados": [
     {
       "titulo": "XTZ Lander 250",
@@ -170,6 +170,44 @@
       "modelo_fipe": "XTZ 150 CROSSER Z FLEX",
       "desconto_pct": 7.2,
       "economia": 1483,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Vendo Yamaha NMax 160",
+      "modelo_olx": "NMax 160",
+      "marca_olx": "Yamaha",
+      "preco": 15900,
+      "ano": 2022,
+      "km": 29000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-yamaha-nmax-160-1539752705",
+      "texto": "Vendo Yamaha NMax 160",
+      "modelo_monitorado": "Yamaha NMAX 160",
+      "fipe": 17031.0,
+      "modelo_fipe": "NMAX 160",
+      "desconto_pct": 6.6,
+      "economia": 1131,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Pcx 2024",
+      "modelo_olx": "PCX 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 18000,
+      "ano": 2024,
+      "km": 10,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-2024-1539573067",
+      "texto": "Pcx 2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19224.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 6.4,
+      "economia": 1224,
       "confianca_fipe": 1.6
     },
     {
