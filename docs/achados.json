@@ -1,5 +1,5 @@
 {
-  "atualizado": "29/09/2026 as 14:17",
+  "atualizado": "29/09/2026 as 16:55",
   "achados": [
     {
       "titulo": "XTZ Lander 250",
@@ -135,22 +135,22 @@
       "confianca_fipe": 1.6
     },
     {
-      "titulo": "Yamaha Nmax 2022",
-      "modelo_olx": "NMax 160",
-      "marca_olx": "Yamaha",
-      "preco": 15800,
-      "ano": 2022,
-      "km": 20000,
+      "titulo": "Cg 160 titan único dono ",
+      "modelo_olx": "CG 160 Titan Flexone/ed.especial 40 Anos",
+      "marca_olx": "Honda",
+      "preco": 20000,
+      "ano": 2025,
+      "km": 14510,
       "municipio": "São Bernardo do Campo",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-nmax-2022-1537213710",
-      "texto": "Yamaha Nmax 2022",
-      "modelo_monitorado": "Yamaha NMAX 160",
-      "fipe": 17031.0,
-      "modelo_fipe": "NMAX 160",
-      "desconto_pct": 7.2,
-      "economia": 1231,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-unico-dono-1536177444",
+      "texto": "Cg 160 titan único dono ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21845.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 8.4,
+      "economia": 1845,
       "confianca_fipe": 1.6
     },
     {
@@ -208,25 +208,6 @@
       "modelo_fipe": "PCX 160 ",
       "desconto_pct": 6.4,
       "economia": 1224,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "ELITE 125 2026 ( TRANSF GRÁTIS )",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 14290,
-      "ano": 2026,
-      "km": 4941,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/elite-125-2026-transf-gratis-1532405593",
-      "texto": "ELITE 125 2026 ( TRANSF GRÁTIS )",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 15210.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 6.0,
-      "economia": 920,
       "confianca_fipe": 1.6
     },
     {
