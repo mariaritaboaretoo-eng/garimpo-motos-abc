@@ -1,5 +1,5 @@
 {
-  "atualizado": "01/10/2026 as 14:44",
+  "atualizado": "01/10/2026 as 17:17",
   "achados": [
     {
       "titulo": "Factor 150 ",
@@ -78,22 +78,22 @@
       "confianca_fipe": 1.6
     },
     {
-      "titulo": "HONDA ELITE 125 / 2024",
+      "titulo": "Honda elite 125 2019",
       "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
-      "preco": 11800,
-      "ano": 2024,
-      "km": 1940,
-      "municipio": "São Bernardo do Campo",
+      "preco": 10200,
+      "ano": 2019,
+      "km": 30000,
+      "municipio": "São Caetano do Sul",
       "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-2024-1538477598",
-      "texto": "HONDA ELITE 125 / 2024",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-2019-1539880200",
+      "texto": "Honda elite 125 2019",
       "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14022.0,
+      "fipe": 11897.0,
       "modelo_fipe": "ELITE 125",
-      "desconto_pct": 15.8,
-      "economia": 2222,
+      "desconto_pct": 14.3,
+      "economia": 1697,
       "confianca_fipe": 1.6
     },
     {
@@ -170,25 +170,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 8.2,
       "economia": 1199,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Cg 160 titan único dono ",
-      "modelo_olx": "CG 160 Titan Flexone/ed.especial 40 Anos",
-      "marca_olx": "Honda",
-      "preco": 20000,
-      "ano": 2025,
-      "km": 14510,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-unico-dono-1536177444",
-      "texto": "Cg 160 titan único dono ",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 21531.0,
-      "modelo_fipe": "CG 160 TITAN",
-      "desconto_pct": 7.1,
-      "economia": 1531,
       "confianca_fipe": 1.6
     },
     {
