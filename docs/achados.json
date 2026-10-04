@@ -1,5 +1,5 @@
 {
-  "atualizado": "03/10/2026 as 15:38",
+  "atualizado": "04/10/2026 as 13:11",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -75,6 +75,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 16.3,
       "economia": 2474,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "PCX - 2025",
+      "modelo_olx": "PCX 160",
+      "marca_olx": "Honda",
+      "preco": 17500,
+      "ano": 2025,
+      "km": 9000,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-2025-1541182479",
+      "texto": "PCX - 2025",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 20430.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 14.3,
+      "economia": 2930,
       "confianca_fipe": 1.6
     },
     {
@@ -228,25 +247,6 @@
       "desconto_pct": 6.3,
       "economia": 1678,
       "confianca_fipe": 1.43
-    },
-    {
-      "titulo": "Honda PCX Abs 2024",
-      "modelo_olx": "PCX 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 17990,
-      "ano": 2024,
-      "km": 22000,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-abs-2024-1514954604",
-      "texto": "Honda PCX Abs 2024",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19127.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 5.9,
-      "economia": 1137,
-      "confianca_fipe": 1.6
     }
   ]
 }
