@@ -1,5 +1,5 @@
 {
-  "atualizado": "04/10/2026 as 13:11",
+  "atualizado": "04/10/2026 as 15:36",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -56,6 +56,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 25.2,
       "economia": 3699,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Honda Cg 160 Fan",
+      "modelo_olx": "CG 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 12000,
+      "ano": 2021,
+      "km": 16998,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-1537859015",
+      "texto": "Honda Cg 160 Fan",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 14863.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 19.3,
+      "economia": 2863,
       "confianca_fipe": 1.6
     },
     {
@@ -247,6 +266,25 @@
       "desconto_pct": 6.3,
       "economia": 1678,
       "confianca_fipe": 1.43
+    },
+    {
+      "titulo": "Honda PCX Abs 2024",
+      "modelo_olx": "PCX 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17990,
+      "ano": 2024,
+      "km": 22000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-abs-2024-1514954604",
+      "texto": "Honda PCX Abs 2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19127.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 5.9,
+      "economia": 1137,
+      "confianca_fipe": 1.6
     }
   ]
 }
