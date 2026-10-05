@@ -1,5 +1,5 @@
 {
-  "atualizado": "04/10/2026 as 15:36",
+  "atualizado": "05/10/2026 as 18:57",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -97,6 +97,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "Honda Elite 125 2019",
+      "modelo_olx": "Elite 125",
+      "marca_olx": "Honda",
+      "preco": 10000,
+      "ano": 2019,
+      "km": 29500,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-2019-1541471717",
+      "texto": "Honda Elite 125 2019",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 11897.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 15.9,
+      "economia": 1897,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "PCX - 2025",
       "modelo_olx": "PCX 160",
       "marca_olx": "Honda",
@@ -170,25 +189,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 8.2,
       "economia": 1199,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Honda PCX 160 ABS 2023 Branca | Licenciada 2026 | Excelente Estado",
-      "modelo_olx": "PCX 160",
-      "marca_olx": "Honda",
-      "preco": 16999,
-      "ano": 2023,
-      "km": 9800,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-abs-2023-branca-licenciada-2026-excelente-estado-1533647750",
-      "texto": "Honda PCX 160 ABS 2023 Branca | Licenciada 2026 | Excelente Estado",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 18354.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 7.4,
-      "economia": 1355,
       "confianca_fipe": 1.6
     },
     {
@@ -266,6 +266,25 @@
       "desconto_pct": 6.3,
       "economia": 1678,
       "confianca_fipe": 1.43
+    },
+    {
+      "titulo": " VENDO HONDA PCX CBS 2026 ",
+      "modelo_olx": "PCX 160",
+      "marca_olx": "Honda",
+      "preco": 19990,
+      "ano": 2026,
+      "km": 4300,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-honda-pcx-cbs-2026-1541209628",
+      "texto": " VENDO HONDA PCX CBS 2026 ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 21284.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 6.1,
+      "economia": 1294,
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "Honda PCX Abs 2024",
