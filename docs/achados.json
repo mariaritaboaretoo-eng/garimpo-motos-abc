@@ -1,5 +1,5 @@
 {
-  "atualizado": "07/10/2026 as 17:32",
+  "atualizado": "08/10/2026 as 15:11",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -135,6 +135,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "PCX 2015 scooter ",
+      "modelo_olx": "PCX 150/dlx",
+      "marca_olx": "Honda",
+      "preco": 9999,
+      "ano": 2015,
+      "km": 28000,
+      "municipio": "São Caetano do Sul",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/pcx-2015-scooter-1542276746",
+      "texto": "PCX 2015 scooter ",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 11645.0,
+      "modelo_fipe": "PCX 150/DLX",
+      "desconto_pct": 14.1,
+      "economia": 1646,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "Fazer 250 2024  fz25",
       "modelo_olx": "FZ25 250 Fazer Flex",
       "marca_olx": "Yamaha",
@@ -211,6 +230,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "Cg 160 titan único dono ",
+      "modelo_olx": "CG 160 Titan Flexone/ed.especial 40 Anos",
+      "marca_olx": "Honda",
+      "preco": 20000,
+      "ano": 2025,
+      "km": 14510,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-unico-dono-1536177444",
+      "texto": "Cg 160 titan único dono ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21531.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 7.1,
+      "economia": 1531,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "YAMAHA CROSSER Z 150 2024 - MOTO IMPECÁVEL ",
       "modelo_olx": "XTZ 150 Crosser Z Flex",
       "marca_olx": "Yamaha",
@@ -266,6 +304,25 @@
       "desconto_pct": 5.9,
       "economia": 1137,
       "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Yamaha XTZ LANDER 250",
+      "modelo_olx": "XTZ 250 Lander 249cc/lander Blueflex",
+      "marca_olx": "Yamaha",
+      "preco": 23300,
+      "ano": 2023,
+      "km": 19000,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-xtz-lander-250-1542359754",
+      "texto": "Yamaha XTZ LANDER 250",
+      "modelo_monitorado": "Yamaha Lander 250",
+      "fipe": 24710.0,
+      "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
+      "desconto_pct": 5.7,
+      "economia": 1410,
+      "confianca_fipe": 1.43
     },
     {
       "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
