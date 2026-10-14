@@ -1,5 +1,5 @@
 {
-  "atualizado": "14/10/2026 as 13:12",
+  "atualizado": "14/10/2026 as 16:16",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -57,25 +57,6 @@
       "desconto_pct": 31.2,
       "economia": 7710,
       "confianca_fipe": 1.43
-    },
-    {
-      "titulo": "Honda Cg 160 Fan",
-      "modelo_olx": "CG 160 FAN Flex",
-      "marca_olx": "Honda",
-      "preco": 12000,
-      "ano": 2021,
-      "km": 16998,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-1537859015",
-      "texto": "Honda Cg 160 Fan",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 14863.0,
-      "modelo_fipe": "CG 160 FAN Flex",
-      "desconto_pct": 19.3,
-      "economia": 2863,
-      "confianca_fipe": 1.6
     },
     {
       "titulo": "Honda CG 160 Start 2023",
@@ -170,6 +151,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 8.2,
       "economia": 1199,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Cg 160 titan único dono ",
+      "modelo_olx": "CG 160 Titan Flexone/ed.especial 40 Anos",
+      "marca_olx": "Honda",
+      "preco": 20000,
+      "ano": 2025,
+      "km": 14510,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-unico-dono-1536177444",
+      "texto": "Cg 160 titan único dono ",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21531.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 7.1,
+      "economia": 1531,
       "confianca_fipe": 1.6
     },
     {
