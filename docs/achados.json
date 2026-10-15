@@ -1,5 +1,5 @@
 {
-  "atualizado": "14/10/2026 as 16:16",
+  "atualizado": "15/10/2026 as 13:00",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -59,6 +59,25 @@
       "confianca_fipe": 1.43
     },
     {
+      "titulo": "Honda CG 160 FAN Flex 2022",
+      "modelo_olx": "CG 160 FAN Flex",
+      "marca_olx": "Honda",
+      "preco": 13000,
+      "ano": 2022,
+      "km": 14000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-fan-flex-2022-1544344778",
+      "texto": "Honda CG 160 FAN Flex 2022",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 15752.0,
+      "modelo_fipe": "CG 160 FAN Flex",
+      "desconto_pct": 17.5,
+      "economia": 2752,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "Honda CG 160 Start 2023",
       "modelo_olx": "CG 160 Start",
       "marca_olx": "Honda",
@@ -75,25 +94,6 @@
       "modelo_fipe": "CG 160 START",
       "desconto_pct": 15.9,
       "economia": 2442,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "CG 160 Fan 2021/2022 Flex - Azul - 21.672 km",
-      "modelo_olx": "CG 160 FAN Flex",
-      "marca_olx": "Honda",
-      "preco": 14000,
-      "ano": 2022,
-      "km": 21670,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-fan-2021-2022-flex-azul-21-672-km-1519065850",
-      "texto": "CG 160 Fan 2021/2022 Flex - Azul - 21.672 km",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 15752.0,
-      "modelo_fipe": "CG 160 FAN Flex",
-      "desconto_pct": 11.1,
-      "economia": 1752,
       "confianca_fipe": 1.6
     },
     {
@@ -228,25 +228,6 @@
       "desconto_pct": 5.7,
       "economia": 1410,
       "confianca_fipe": 1.43
-    },
-    {
-      "titulo": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 13900,
-      "ano": 2025,
-      "km": 8053,
-      "municipio": "São Bernardo do Campo",
-      "uf": "SP",
-      "particular": false,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-cbs-2025-com-8-mil-km-bel-motos-1513450008",
-      "texto": "HONDA ELITE 125 CBS 2025 COM 8 MIL KM BEL MOTOS ",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 14699.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 5.4,
-      "economia": 799,
-      "confianca_fipe": 1.6
     }
   ]
 }
