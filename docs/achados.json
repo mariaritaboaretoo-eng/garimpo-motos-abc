@@ -1,5 +1,5 @@
 {
-  "atualizado": "15/10/2026 as 13:00",
+  "atualizado": "15/10/2026 as 16:00",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -170,25 +170,6 @@
       "modelo_fipe": "CG 160 TITAN",
       "desconto_pct": 7.1,
       "economia": 1531,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Honda PCX Abs 2024",
-      "modelo_olx": "PCX 160 DLX",
-      "marca_olx": "Honda",
-      "preco": 17990,
-      "ano": 2024,
-      "km": 22000,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-abs-2024-1514954604",
-      "texto": "Honda PCX Abs 2024",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 19127.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 5.9,
-      "economia": 1137,
       "confianca_fipe": 1.6
     },
     {
