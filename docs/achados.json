@@ -1,5 +1,5 @@
 {
-  "atualizado": "19/10/2026 as 14:58",
+  "atualizado": "19/10/2026 as 17:30",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -94,25 +94,6 @@
       "modelo_fipe": "XRE 300 ADVENTURE FLEX",
       "desconto_pct": 10.6,
       "economia": 3201,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Honda Elite 125 2019",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 10800,
-      "ano": 2019,
-      "km": 16618,
-      "municipio": "São Caetano do Sul",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-2019-1543314235",
-      "texto": "Honda Elite 125 2019",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 11897.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 9.2,
-      "economia": 1097,
       "confianca_fipe": 1.6
     },
     {
