@@ -1,5 +1,5 @@
 {
-  "atualizado": "21/10/2026 as 13:20",
+  "atualizado": "21/10/2026 as 16:13",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -38,25 +38,6 @@
       "desconto_pct": 48.8,
       "economia": 13354,
       "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Honda Biz 110i 2021",
-      "modelo_olx": "Biz 110i",
-      "marca_olx": "Honda",
-      "preco": 10000,
-      "ano": 2021,
-      "km": 23000,
-      "municipio": "Mauá",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-biz-110i-2021-1545625783",
-      "texto": "Honda Biz 110i 2021",
-      "modelo_monitorado": "Honda Biz",
-      "fipe": 13497.0,
-      "modelo_fipe": "BIZ 110i",
-      "desconto_pct": 25.9,
-      "economia": 3497,
-      "confianca_fipe": 1.0
     },
     {
       "titulo": "HONDA-BIZ 125 /  FINANCIA ATE 48X - FABY",
