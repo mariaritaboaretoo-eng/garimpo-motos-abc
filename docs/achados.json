@@ -1,5 +1,5 @@
 {
-  "atualizado": "27/10/2026 as 17:00",
+  "atualizado": "28/10/2026 as 14:40",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -154,22 +154,22 @@
       "confianca_fipe": 1.6
     },
     {
-      "titulo": "Cg 160 titan único dono ",
-      "modelo_olx": "CG 160 Titan Flexone/ed.especial 40 Anos",
+      "titulo": "Honda Elite 125 ",
+      "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
-      "preco": 20000,
+      "preco": 13800,
       "ano": 2025,
-      "km": 14510,
-      "municipio": "São Bernardo do Campo",
+      "km": 6000,
+      "municipio": "Diadema",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/cg-160-titan-unico-dono-1536177444",
-      "texto": "Cg 160 titan único dono ",
-      "modelo_monitorado": "Honda CG 160",
-      "fipe": 21531.0,
-      "modelo_fipe": "CG 160 TITAN",
-      "desconto_pct": 7.1,
-      "economia": 1531,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-1548070072",
+      "texto": "Honda Elite 125 ",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 14699.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 6.1,
+      "economia": 899,
       "confianca_fipe": 1.6
     },
     {
