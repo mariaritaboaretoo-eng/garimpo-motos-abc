@@ -1,5 +1,5 @@
 {
-  "atualizado": "29/10/2026 as 14:48",
+  "atualizado": "29/10/2026 as 17:09",
   "achados": [
     {
       "titulo": "Factor 150 ED",
@@ -132,6 +132,25 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 12.1,
       "economia": 1655,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Honda PCX 160 DLX 2024",
+      "modelo_olx": "PCX 160 DLX",
+      "marca_olx": "Honda",
+      "preco": 17000,
+      "ano": 2024,
+      "km": 11,
+      "municipio": "São Bernardo do Campo",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-160-dlx-2024-1548606059",
+      "texto": "Honda PCX 160 DLX 2024",
+      "modelo_monitorado": "Honda PCX",
+      "fipe": 19127.0,
+      "modelo_fipe": "PCX 160 ",
+      "desconto_pct": 11.1,
+      "economia": 2127,
       "confianca_fipe": 1.6
     },
     {
