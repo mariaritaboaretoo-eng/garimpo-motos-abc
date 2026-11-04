@@ -1,5 +1,5 @@
 {
-  "atualizado": "04/11/2026 as 16:11",
+  "atualizado": "04/11/2026 as 18:13",
   "achados": [
     {
       "titulo": "Yamaha Lander XTZ 250 Connected 2025 - Impecável, Baixa KM, Financiada",
@@ -135,6 +135,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "Honda CG 160 Titan *Único Dono* (Financio e Parcelo no Cartão de Crédito)",
+      "modelo_olx": "CG 160 Titan",
+      "marca_olx": "Honda",
+      "preco": 19900,
+      "ano": 2026,
+      "km": 8200,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": false,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-titan-unico-dono-financio-e-parcelo-no-cartao-de-credito-1550308764",
+      "texto": "Honda CG 160 Titan *Único Dono* (Financio e Parcelo no Cartão de Crédito)",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21503.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 7.5,
+      "economia": 1603,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "PCX DLX 160 ",
       "modelo_olx": "PCX 160 DLX",
       "marca_olx": "Honda",
@@ -151,6 +170,25 @@
       "modelo_fipe": "PCX 160 ",
       "desconto_pct": 7.5,
       "economia": 1362,
+      "confianca_fipe": 1.6
+    },
+    {
+      "titulo": "Nmax ",
+      "modelo_olx": "NMax 160",
+      "marca_olx": "Yamaha",
+      "preco": 16000,
+      "ano": 2022,
+      "km": 24000,
+      "municipio": "Mauá",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/nmax-1550127284",
+      "texto": "Nmax ",
+      "modelo_monitorado": "Yamaha NMAX 160",
+      "fipe": 16997.0,
+      "modelo_fipe": "NMAX 160",
+      "desconto_pct": 5.9,
+      "economia": 997,
       "confianca_fipe": 1.6
     },
     {
