@@ -1,5 +1,5 @@
 {
-  "atualizado": "14/11/2026 as 14:29",
+  "atualizado": "14/11/2026 as 16:51",
   "achados": [
     {
       "titulo": "Yamaha Lander XTZ 250 Connected 2025 - Impecável, Baixa KM, Financiada",
@@ -57,25 +57,6 @@
       "desconto_pct": 24.2,
       "economia": 4416,
       "confianca_fipe": 0.4
-    },
-    {
-      "titulo": "Honda Elite 125 ano 2019 ",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 9800,
-      "ano": 2019,
-      "km": 27900,
-      "municipio": "Diadema",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-elite-125-ano-2019-1527336965",
-      "texto": "Honda Elite 125 ano 2019 ",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 11928.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 17.8,
-      "economia": 2128,
-      "confianca_fipe": 1.6
     },
     {
       "titulo": "Vendo Elite 125 Novinha (2019)",
