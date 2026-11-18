@@ -1,5 +1,5 @@
 {
-  "atualizado": "17/11/2026 as 19:50",
+  "atualizado": "18/11/2026 as 16:45",
   "achados": [
     {
       "titulo": "Yamaha Lander XTZ 250 Connected 2025 - Impecável, Baixa KM, Financiada",
@@ -21,6 +21,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "Vendo biz rosa 7 mil para sair logo",
+      "modelo_olx": "Biz 125 EX/ 125 EX Flex",
+      "marca_olx": "Honda",
+      "preco": 7000,
+      "ano": 2014,
+      "km": 50,
+      "municipio": "Diadema",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-biz-rosa-7-mil-para-sair-logo-1554062748",
+      "texto": "Vendo biz rosa 7 mil para sair logo",
+      "modelo_monitorado": "Honda Biz",
+      "fipe": 11978.0,
+      "modelo_fipe": "BIZ 125 EX/ 125 EX FLEX",
+      "desconto_pct": 41.6,
+      "economia": 4978,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "Yamaha Factor 150 21/22",
       "modelo_olx": "Factor DX",
       "marca_olx": "Yamaha",
@@ -38,25 +57,6 @@
       "desconto_pct": 24.2,
       "economia": 4416,
       "confianca_fipe": 0.4
-    },
-    {
-      "titulo": "Vendo Elite 125 Novinha (2019)",
-      "modelo_olx": "Elite 125",
-      "marca_olx": "Honda",
-      "preco": 10000,
-      "ano": 2019,
-      "km": 30000,
-      "municipio": "Santo André",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-elite-125-novinha-2019-1552636900",
-      "texto": "Vendo Elite 125 Novinha (2019)",
-      "modelo_monitorado": "Honda Elite 125",
-      "fipe": 11928.0,
-      "modelo_fipe": "ELITE 125",
-      "desconto_pct": 16.2,
-      "economia": 1928,
-      "confianca_fipe": 1.6
     },
     {
       "titulo": "Honda Elite 125 2023",
@@ -97,23 +97,23 @@
       "confianca_fipe": 1.43
     },
     {
-      "titulo": "Yamaha XTZ 250 Lander 249cc/lander Blueflex 2022",
-      "modelo_olx": "XTZ 250 Lander 249cc/lander Blueflex",
-      "marca_olx": "Yamaha",
-      "preco": 19990,
-      "ano": 2022,
-      "km": 23000,
-      "municipio": "São Bernardo do Campo",
+      "titulo": "Honda CG 160 Titan 2026",
+      "modelo_olx": "CG 160 Titan",
+      "marca_olx": "Honda",
+      "preco": 19500,
+      "ano": 2026,
+      "km": 19300,
+      "municipio": "Diadema",
       "uf": "SP",
       "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/yamaha-xtz-250-lander-249cc-lander-blueflex-2022-1553428637",
-      "texto": "Yamaha XTZ 250 Lander 249cc/lander Blueflex 2022",
-      "modelo_monitorado": "Yamaha Lander 250",
-      "fipe": 22081.0,
-      "modelo_fipe": "XTZ 250 LANDER 249cc/LANDER BLUEFLEX/ABS",
-      "desconto_pct": 9.5,
-      "economia": 2091,
-      "confianca_fipe": 1.43
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-cg-160-titan-2026-1553952383",
+      "texto": "Honda CG 160 Titan 2026",
+      "modelo_monitorado": "Honda CG 160",
+      "fipe": 21503.0,
+      "modelo_fipe": "CG 160 TITAN",
+      "desconto_pct": 9.3,
+      "economia": 2003,
+      "confianca_fipe": 1.6
     },
     {
       "titulo": "Elite 125",
@@ -135,6 +135,25 @@
       "confianca_fipe": 1.6
     },
     {
+      "titulo": "Vendo Elite 125 Novinha (2019)",
+      "modelo_olx": "Elite 125",
+      "marca_olx": "Honda",
+      "preco": 10900,
+      "ano": 2019,
+      "km": 30000,
+      "municipio": "Santo André",
+      "uf": "SP",
+      "particular": true,
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/vendo-elite-125-novinha-2019-1552636900",
+      "texto": "Vendo Elite 125 Novinha (2019)",
+      "modelo_monitorado": "Honda Elite 125",
+      "fipe": 11928.0,
+      "modelo_fipe": "ELITE 125",
+      "desconto_pct": 8.6,
+      "economia": 1028,
+      "confianca_fipe": 1.6
+    },
+    {
       "titulo": "Elite 125 zeradinha ",
       "modelo_olx": "Elite 125",
       "marca_olx": "Honda",
@@ -151,25 +170,6 @@
       "modelo_fipe": "ELITE 125",
       "desconto_pct": 8.4,
       "economia": 1178,
-      "confianca_fipe": 1.6
-    },
-    {
-      "titulo": "Honda PCX ABS 25/26",
-      "modelo_olx": "PCX 160",
-      "marca_olx": "Honda",
-      "preco": 19500,
-      "ano": 2026,
-      "km": 16000,
-      "municipio": "São Caetano do Sul",
-      "uf": "SP",
-      "particular": true,
-      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/motos/honda-pcx-abs-25-26-1553081826",
-      "texto": "Honda PCX ABS 25/26",
-      "modelo_monitorado": "Honda PCX",
-      "fipe": 21254.0,
-      "modelo_fipe": "PCX 160 ",
-      "desconto_pct": 8.3,
-      "economia": 1754,
       "confianca_fipe": 1.6
     },
     {
